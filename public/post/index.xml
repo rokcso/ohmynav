@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Oh My Nav | 分享一切好东西 | 氢刻舟</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on Oh My Nav | 分享一切好东西 | 氢刻舟</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>氢刻舟</copyright>
+        <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>「氢日常」2024 年 8 月</title>
+        <link>http://localhost:1313/p/daily-sharing-202408/</link>
+        <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/daily-sharing-202408/</guid>
+        <description>&lt;img src="http://localhost:1313/p/daily-sharing-202408/cover.jpg" alt="Featured image of post 「氢日常」2024 年 8 月" /&gt;&lt;h2 id=&#34;7-月-28-日&#34;&gt;7 月 28 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.pansou.vip/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;盘搜VIP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;人工亲测精选的网盘搜索工具导航，有一套自己的网盘搜索工具测试标准，收录的网盘搜索工具非常全。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mac 删除系统自带的 ABC 输入法</title>
+        <link>http://localhost:1313/p/macos-remove-abc/</link>
+        <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/macos-remove-abc/</guid>
+        <description>&lt;img src="http://localhost:1313/p/macos-remove-abc/image.png" alt="Featured image of post Mac 删除系统自带的 ABC 输入法" /&gt;&lt;blockquote&gt;
+&lt;p&gt;以下操作均在 macOS Sonoma 14.3 上进行，不确定其他 macOS 系统是否适用。
+但看网上文章即使是其他 macOS 系统大多也都成功了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;原理：要删除 macOS 自带的 ABC 输入法，本质上就是要删除对应的配置。&lt;/p&gt;
+&lt;p&gt;macOS 的配置文件基本都是以 &lt;code&gt;.plist&lt;/code&gt; 为后缀的文件，而输入法相关的配置都存储在 &lt;code&gt;com.apple.HIToolbox.plist&lt;/code&gt; 这个系统配置文件中，该配置文件主要负责存储与用户界面相关的配置，比如：输入设备、键盘布局、鼠标设置、触控板手势等等。&lt;/p&gt;
+&lt;p&gt;💡 提示：打开/修改 &lt;code&gt;.plist&lt;/code&gt; 文件需要使用 Xcode 或者 PlistEdit Pro 软件。&lt;/p&gt;
+&lt;p&gt;⚠️ 注意：通常不建议普通用户随意修改系统 &lt;code&gt;.plist&lt;/code&gt; 文件，这可能会影响系统的稳定性和安全性。&lt;/p&gt;
+&lt;h2 id=&#34;关闭开启-sip&#34;&gt;关闭/开启 SIP
+&lt;/h2&gt;&lt;p&gt;在修改系统配置文件之前，需要先关闭系统完整性保护（SIP），SIP 的主要目的是保护系统文件和目录，防止它们被未经授权的修改，这种保护措施甚至对 Root 用户也有效。&lt;/p&gt;
+&lt;p&gt;⚠️ 注意：SIP 默认开启，如需关闭 SIP 以修改一些系统配置文件，也非常建议完成修改之后重启 SIP。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如何确定是否已经关闭/开启 SIP？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打开终端，输入 &lt;code&gt;csrutil status&lt;/code&gt; 命令，回车执行该命令，终端将显示一条消息来提示 SIP 状态，比如：&lt;code&gt;System Integrity Protection status: enabled&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关闭/开启 SIP 的详细步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;重启 Mac，重启过程中持续按住 &lt;code&gt;Command + R&lt;/code&gt; ，进入恢复模式&lt;/li&gt;
+&lt;li&gt;进入恢复模式后，打开终端（路径：顶部菜单栏 - 实用工具 - 终端）&lt;/li&gt;
+&lt;li&gt;输入 &lt;code&gt;csrutil disable&lt;/code&gt; 命令，回车执行该命令&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;完成步骤 3 后，如果一切正常，终端将显示一条消息来提示 SIP 已经禁用，并提示重启 Mac，根据提示操作即可。&lt;/p&gt;
+&lt;p&gt;开启 SIP 的步骤和关闭非常类似，仅在步骤 3 时，输入 &lt;code&gt;csrutil enable&lt;/code&gt; 命令，回车执行该命令。如果一切正常，终端将显示一条消息来提示 SIP 已经启用，并提示重启 Mac，根据提示操作即可。&lt;/p&gt;
+&lt;h2 id=&#34;修改配置文件以删除-abc-输入法&#34;&gt;修改配置文件以删除 ABC 输入法
+&lt;/h2&gt;&lt;p&gt;输入法相关的系统配置文件 &lt;code&gt;com.apple.HIToolbox.plist&lt;/code&gt; 在 👇 这个路径下，可以打开 Finder 按下 &lt;code&gt;Commans + Shift + G&lt;/code&gt; 输入（复制粘贴）该路径，回车，然后将该文件拖入 Xcode（或者使用 Xcode 选择打开）。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~/Library/Preferences/com.apple.HIToolbox.plist
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;也可以直接在终端执行以下命令（可能会要求输入密码，即 Mac 开机密码，输入的字符不可见），都可以打开该配置文件。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo open ~/Library/Preferences/com.apple.HIToolbox.plist
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;成功（正常）打开后的配置文件如下图，在 Root - AppleEnabledInputSources 下有一系列 Item，找到 KeyboardLayout Name = ABC 的 Item（比如下图中的 Item 2），将该 Item 完整删除（比如完整选中 Item 2 后点击删除）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/macos-remove-abc/image.png&#34;
+	width=&#34;1912&#34;
+	height=&#34;1258&#34;
+	srcset=&#34;http://localhost:1313/p/macos-remove-abc/image_huc4768833e4d979fab727505c6d4f609a_229779_480x0_resize_box_3.png 480w, http://localhost:1313/p/macos-remove-abc/image_huc4768833e4d979fab727505c6d4f609a_229779_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;com.apple.HIToolbox.plist&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;151&#34;
+		data-flex-basis=&#34;364px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;删除完成后保存（&lt;code&gt;Command + S&lt;/code&gt;）该配置文件，随后重启 Mac 即可。&lt;/p&gt;
+&lt;h2 id=&#34;添加-abc-输入法&#34;&gt;添加 ABC 输入法
+&lt;/h2&gt;&lt;p&gt;如果要重新将 ABC 输入法添加回来，只需要进入「系统设置 - 键盘 - 输入法」点击 + 号，选择「英语 - ABC」点击「添加」即可。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

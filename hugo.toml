@@ -1,0 +1,119 @@
+baseURL = "https://ohmynav.com/"
+languageCode = "zh-cn"
+title = "Oh My Nav | 分享一切好东西 | 氢刻舟"
+theme = "hugo-theme-stack"
+
+copyright = "氢刻舟"
+
+DefaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+
+[permalinks]
+post = "/p/:slug/"
+page = "/:slug/"
+
+[params]
+# 网站描述
+description = "Oh My Nav，氢刻舟的好物分享，分享一切好东西。"
+# 文章内容所在的目录
+mainSections = "post"
+# 文章 Front Matter 中用来配置封面的字段命名
+featuredImageField = "cover"
+# 是否提供 RSS 内容输出
+rssFullContent = true
+# 网站 icon
+favicon = "/favicon.ico"
+
+# 针对文章的配置，但是都能被文章文档的 Front Matter 优先覆盖
+[params.article]
+# 是否支持 Math 公式
+math = false
+# 是否启用 TOC，需要启用 toc widget 才会生效
+toc = true
+# 预估阅读时间
+readingTime = false
+[params.article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+
+[params.sidebar]
+compact = false
+emoji = "🍩"
+subtitle = "氢刻舟 | 分享一切好东西"
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+[params.footer]
+since = "2024"
+# 页脚自定义文本，支持 HTML
+customText = "❤️ 用心分享，保持热爱"
+
+[params.comments]
+enabled = false
+
+[[params.widgets.homepage]]
+type = "search"
+[[params.widgets.homepage]]
+type = "archives"
+[params.widgets.homepage.params]
+limit = 5
+[[params.widgets.homepage]]
+type = "categories"
+[params.widgets.homepage.params]
+limit = 10
+[[params.widgets.homepage]]
+type = "tag-cloud"
+[params.widgets.homepage.params]
+limit = 10
+[[params.widgets.page]]
+type = "toc"
+
+[params.opengraph.twitter]
+site = "rokcso"
+card = "summary_large_image"
+
+[params.defaultImage.opengraph]
+# enabled = false
+# local = true
+# src = ""
+
+[params.colorScheme]
+toggle = true
+default = "auto"
+
+[params.imageProcessing.cover]
+enabled = true
+
+[params.imageProcessing.content]
+enabled = true
+
+[menu]
+# main = []
+# 已经使用在 page 文档中配置 Front Matter 的方式实现
+[[menu.main]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+[menu.main.params]
+icon = "rss"
+newtab = false
+
+[[menu.social]]
+identifier = "okjike"
+name = "Jike App"
+url = "https://okjk.co/nkcDuq"
+[menu.social.params]
+icon = "brand-okjike"
+newtab = true
+
+[[menu.social]]
+identifier = "twitter"
+name = "Twitter/X"
+url = "https://x.com/rokcso"
+[menu.social.params]
+icon = "brand-twitter"
+newtab = true
