@@ -10,6 +10,12 @@ cover: "/cover.jpg"
 weight: -1
 ---
 
+## 7 月 29 日
+
+[n8n 中文教程 | 简单易懂的现代魔法](https://n8n.akashio.com/welcome)
+
+n8n 是一个开源免费的可视化低代码自动化 Workflow 平台，能够实现非常丰富、复杂、强大的自动化 Workflow。这篇教程就是教授如何使用 n8n，并且内容写得非常简单易懂，适合入门使用。
+
 ## 7 月 28 日
 
 [盘搜VIP](https://www.pansou.vip/)
