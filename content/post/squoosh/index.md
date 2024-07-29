@@ -24,3 +24,5 @@ Squoosh 的图片压缩能力非常强大，如下图测试，一张 13.2MB 的�
 ![压缩测试](image-1.png)
 
 除此之外 Squoosh 还有一个非常神奇的点，当你第一次访问 Squoosh 网站之后，以后即使没有网络连接也可以通过访问该网站进行图片压缩操作（前提是没有清除缓存）。
+
+并且 Squoosh 已经在 [GitHub](https://github.com/GoogleChromeLabs/squoosh) 开源，有能力的也可以自己部署图片压缩服务。

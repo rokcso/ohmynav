@@ -8,19 +8,19 @@
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
         <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>App</title>
+        <link>http://localhost:1313/tags/app/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/app/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>技巧</title>
         <link>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>截图</title>
-        <link>http://localhost:1313/tags/%E6%88%AA%E5%9B%BE/</link>
-        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/%E6%88%AA%E5%9B%BE/</guid>
         <description></description>
         </item>
         <item>
@@ -37,6 +37,22 @@
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>图片处理</title>
+        <link>http://localhost:1313/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>网站</title>
+        <link>http://localhost:1313/tags/%E7%BD%91%E7%AB%99/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E7%BD%91%E7%AB%99/</guid>
         <description></description>
         </item>
         <item>

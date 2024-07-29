@@ -24,12 +24,128 @@
 </description>
         </item>
         <item>
-        <title>「Squoosh」Google 开源的图片压缩工具</title>
-        <link>http://localhost:1313/p/snipaste/</link>
+        <title>Google 开源的高性能图片压缩工具</title>
+        <link>http://localhost:1313/p/squoosh/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/snipaste/</guid>
-        <description>&lt;img src="http://localhost:1313/image.png" alt="Featured image of post 「Squoosh」Google 开源的图片压缩工具" /&gt;</description>
+        <guid>http://localhost:1313/p/squoosh/</guid>
+        <description>&lt;img src="http://localhost:1313/p/squoosh/image.png" alt="Featured image of post Google 开源的高性能图片压缩工具" /&gt;&lt;p&gt;与众多图片压缩工具类似，&lt;a class=&#34;link&#34; href=&#34;https://squoosh.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Squoosh&lt;/a&gt; 也是一个在线工具，支持 JPG/PNG/SVG 等多种常见图片格式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/squoosh/image.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;608&#34;
+	srcset=&#34;http://localhost:1313/p/squoosh/image_hu95ddfb6f6455c607cb7d0c4cf6739e5c_96843_480x0_resize_box_3.png 480w, http://localhost:1313/p/squoosh/image_hu95ddfb6f6455c607cb7d0c4cf6739e5c_96843_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Squoosh 首页&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Squoosh 提供了多种图片压缩模式，同时支持直接对图片进行简单编辑。&lt;/p&gt;
+&lt;p&gt;打开 Squoosh 后上传需要压缩的图片，可以通过左右预览窗口配置不同的压缩参数，并且实时预览图片压缩后的画质、大小等参数。&lt;/p&gt;
+&lt;p&gt;Squoosh 的图片压缩能力非常强大，如下图测试，一张 13.2MB 的图片压缩为 870KB 后画质损失极小。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/squoosh/image-1.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;608&#34;
+	srcset=&#34;http://localhost:1313/p/squoosh/image-1_huc065bf44374ad20e644c35a5ad00ccdb_483960_480x0_resize_box_3.png 480w, http://localhost:1313/p/squoosh/image-1_huc065bf44374ad20e644c35a5ad00ccdb_483960_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;压缩测试&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;除此之外 Squoosh 还有一个非常神奇的点，当你第一次访问 Squoosh 网站之后，以后即使没有网络连接也可以通过访问该网站进行图片压缩操作（前提是没有清除缓存）。&lt;/p&gt;
+&lt;p&gt;并且 Squoosh 已经在 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GoogleChromeLabs/squoosh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt; 开源，有能力的也可以自己部署图片压缩服务。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Windows 平台绝佳生产力工具集</title>
+        <link>http://localhost:1313/p/utools/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/utools/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.u.tools/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;uTools&lt;/a&gt; 是一款生产力工具集软件，uTools 在具有了其他工具集软件的「跨平台」、「插件化」等优势之后，依然能保持极简，这是很不容易的。&lt;/p&gt;
+&lt;p&gt;使用 uTools 我们只需要记住快捷键「Alt + Space」，快速呼出一个搜索框。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/utools/image.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;78&#34;
+	srcset=&#34;http://localhost:1313/p/utools/image_hub8790cf49f596f0673090d509f35fa40_7910_480x0_resize_box_3.png 480w, http://localhost:1313/p/utools/image_hub8790cf49f596f0673090d509f35fa40_7910_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;uTools 搜索框&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;1384&#34;
+		data-flex-basis=&#34;3323px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;通过这个搜索框可以快速启动应用程序，支持英文、英文驼峰、中文拼音、拼音首字母来检索关键词。&lt;/p&gt;
+&lt;p&gt;还有很重要的一点，uTools 针对中文进行了特别优化，使用 jsb 就可以检索到记事本，而不需要使用 notepad，对于中文用户，这相当重要。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/utools/image-1.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;723&#34;
+	srcset=&#34;http://localhost:1313/p/utools/image-1_hu72ebcd0d2c39160897c49dc689abdec4_144951_480x0_resize_box_3.png 480w, http://localhost:1313/p/utools/image-1_hu72ebcd0d2c39160897c49dc689abdec4_144951_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;中文优化&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;358px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;并且除了应用程序以外，uTools 还可以检索类似于控制面板这样的细化项目。&lt;/p&gt;
+&lt;p&gt;其次便是插件系统，这是一个工具集合型软件的灵魂所在，uTools 拥有的插件数量并不算非常多，但是胜在简而精。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/utools/image-2.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;809&#34;
+	srcset=&#34;http://localhost:1313/p/utools/image-2_hu5e91da57d365bd072de9b67b9ffe8a2b_181335_480x0_resize_box_3.png 480w, http://localhost:1313/p/utools/image-2_hu5e91da57d365bd072de9b67b9ffe8a2b_181335_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;uTools 插件中心&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这里非常推荐安装「本地搜索」插件，该插件是由 uTools 官方发布，基于 Everything 却优于 Everything 的本地搜索插件。&lt;/p&gt;
+&lt;p&gt;可以让你在不安装 Everything 的情况下使用本地全局搜索，搜索速度快到肉眼不可见（是我夸张了），完全碾压 Windows 自带搜索（这是真的）。&lt;/p&gt;
+&lt;p&gt;还支持预览文件内容、选择检索类型，这可是 Everything 做不到的。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/utools/image-3.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;807&#34;
+	srcset=&#34;http://localhost:1313/p/utools/image-3_hu7001bf82b927217508bb063409895ca4_205124_480x0_resize_box_3.png 480w, http://localhost:1313/p/utools/image-3_hu7001bf82b927217508bb063409895ca4_205124_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;搜索插件&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;321px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;同时 uTools 官方还发布了「聚合翻译」插件，支持同时对比多家翻译结果。&lt;/p&gt;
+&lt;p&gt;再比如 OCR、剪贴板等基础工具也是应有尽有。&lt;/p&gt;
+&lt;p&gt;与此同时，uTool 是非常人性化的。&lt;/p&gt;
+&lt;p&gt;在你越来越熟悉 uTools 之后，其大量的快捷键和自动化功能会让你越来越爱它。&lt;/p&gt;
+&lt;p&gt;uTools 的输入框不仅能输入文字，图片、文件夹也是可以的（通过复制粘贴）。&lt;/p&gt;
+&lt;p&gt;如果你不满意 uTools 现有的插件，你完全可以自己开发，uTools 提供了相当丰富的开发文档。&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>如何查询个人名下所有电话卡信息</title>
