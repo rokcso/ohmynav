@@ -7,20 +7,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧</title>
+        <link>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>扩展程序</title>
+        <link>http://localhost:1313/tags/%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>MacOS</title>
         <link>http://localhost:1313/tags/macos/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/macos/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>技巧</title>
-        <link>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</link>
-        <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</guid>
         <description></description>
         </item>
         
