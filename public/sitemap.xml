@@ -8,9 +8,6 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/context-menu-manager/</loc>
-    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/app/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/utools/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84-windows-%E8%87%AA%E5%B8%A6%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</loc>
@@ -48,6 +48,9 @@
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/install-extensions/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/context-menu-manager/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7/</loc>
