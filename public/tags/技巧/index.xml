@@ -8,6 +8,103 @@
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
         <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>分享几个实用的 Windows 自带功能</title>
+        <link>http://localhost:1313/p/windows-feature-tips/</link>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/windows-feature-tips/</guid>
+        <description>&lt;img src="http://localhost:1313/p/windows-feature-tips/image-4.png" alt="Featured image of post 分享几个实用的 Windows 自带功能" /&gt;&lt;h2 id=&#34;剪贴板&#34;&gt;剪贴板
+&lt;/h2&gt;&lt;p&gt;在 Windows 10 中，我们可以打开「剪贴板历史记录」，可以将多次复制的内容保留到剪贴板。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;830&#34;
+	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image_hu76ca1274f64c44420c1ac86eb4825d59_371324_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image_hu76ca1274f64c44420c1ac86eb4825d59_371324_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;剪贴板历史记录 - On&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;312px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;粘贴的时候，按下 Win + V，就可以选择要粘贴的内容了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-1.png&#34;
+	width=&#34;437&#34;
+	height=&#34;540&#34;
+	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-1_hu35850680664329644a091637779252b1_180235_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-1_hu35850680664329644a091637779252b1_180235_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;剪贴板&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;80&#34;
+		data-flex-basis=&#34;194px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;然后我们的操作路径就发生了如下的变化：&lt;/p&gt;
+&lt;p&gt;复制 切换 粘贴 复制 切换 粘贴 复制 切换 粘贴 👉 复制 复制 复制 切换 粘贴 粘贴 粘贴&lt;/p&gt;
+&lt;p&gt;与此同时，Windows 10 还提供了「云剪贴板」选项，开启同步之后就可以在多台设备上同步剪贴板了。&lt;/p&gt;
+&lt;h2 id=&#34;沙盒&#34;&gt;沙盒
+&lt;/h2&gt;&lt;p&gt;沙盒其实就可以理解为一个虚拟机，使用沙盒就是在电脑里使用电脑。&lt;/p&gt;
+&lt;p&gt;所以即使你在沙盒里安装一些不太正经的软件然后导致死机了，你自己的电脑也不会受影响。&lt;/p&gt;
+&lt;p&gt;很多时候我们需要单独安装虚拟机，而 Windows 10 就自带了一个。&lt;/p&gt;
+&lt;p&gt;并且这个沙盒拥有桌面系统、文件系统，可以和真实电脑共享剪贴板数据，这表示你可以通过复制粘贴在真实电脑与沙盒之前传输数据。&lt;/p&gt;
+&lt;p&gt;温馨提示：沙盒只在 Windows 10 专业版中有。&lt;/p&gt;
+&lt;h2 id=&#34;虚拟桌面&#34;&gt;虚拟桌面
+&lt;/h2&gt;&lt;p&gt;虚拟桌面就是你可以同时创建多个桌面，方便多任务平行处理。&lt;/p&gt;
+&lt;p&gt;在 Windows 10 中，按下 Win + Tab 后，屏幕上方就会出现「新建桌面」的提示，点击即可创建新的桌面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-2.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;608&#34;
+	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-2_hu95d31f36f474a5e803b707185442e941_128372_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-2_hu95d31f36f474a5e803b707185442e941_128372_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;虚拟桌面&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;移动热点&#34;&gt;移动热点
+&lt;/h2&gt;&lt;p&gt;这个功能应该还不太为人所知，或者很少有人使用。&lt;/p&gt;
+&lt;p&gt;其实就像手机热点一样，Windows 10 也可以开热点，将宽带网络通过热点供其他 WiFi 设备使用。&lt;/p&gt;
+&lt;p&gt;你只需要在「通知中心」中打开「移动热点」开关即可。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-3.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-3_hub3b0dcc78d80f2d33983d366aa0c6bdd_136502_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-3_hub3b0dcc78d80f2d33983d366aa0c6bdd_136502_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;通知中心&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-4.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-4_hu4969f3620c68a66c8a51455dd124792c_480060_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-4_hu4969f3620c68a66c8a51455dd124792c_480060_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;移动热点&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>如何查询个人名下所有电话卡信息</title>
         <link>http://localhost:1313/p/query-sim-card/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
