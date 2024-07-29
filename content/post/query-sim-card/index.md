@@ -1,6 +1,6 @@
 ---
 title: "如何查询个人名下所有电话卡信息"
-description: "保护个人信息，不要讲电话卡以任何形式提供给他人使用。"
+description: "保护个人信息，不要将电话卡以任何形式提供给他人使用。"
 slug: "query-sim-card"
 date: "2024-07-29"
 draft: false

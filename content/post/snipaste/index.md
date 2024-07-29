@@ -1,11 +1,11 @@
 ---
 title: "一款实用的截图工具如何帮助你提高工作效率"
-description: "由国人开发的轻量级截图 & 贴图工具：Snipaste。"
+description: "Snipaste | 由国人开发的轻量级截图 & 贴图工具。"
 slug: "snipaste"
 date: "2024-07-29"
 draft: false
 categories: ["氢自用"]
-tags: ["生产力工具", "截图"]
+tags: ["生产力工具", "图片处理", "App"]
 keywords: ["截图工具", "生产力工具", "软件分享"]
 cover: "/image.png"
 # weight: -1
