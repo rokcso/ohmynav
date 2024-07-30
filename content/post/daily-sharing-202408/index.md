@@ -10,6 +10,16 @@ cover: "/cover.jpg"
 weight: -1
 ---
 
+## 7 月 30 日
+
+[2024 巴黎奥运会赛程 - Bing](https://cn.bing.com/sportsdetails?q=2024%E5%B9%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A&sport=Olympics&TimezoneId=China%20Standard%20Time&intent=Schedule&date=2024-07-30&isolympics=True&segment=sports&isl2=true&form=ARENL1&)
+
+快速查看特定日期、运动项目和国家代表团的赛程，注意时区。
+
+[奥运直播 - 央视频](https://sports.cctv.com/Paris2024/index.shtml)
+
+用央视频看奥运直播，官方、免费还稳定。
+
 ## 7 月 29 日
 
 [n8n 中文教程 | 简单易懂的现代魔法](https://n8n.akashio.com/welcome)

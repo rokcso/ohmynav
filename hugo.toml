@@ -105,10 +105,12 @@ url = "/index.xml"
 icon = "rss"
 newtab = false
 
+
 [[menu.social]]
 identifier = "okjike"
 name = "Jike App"
 url = "https://okjk.co/nkcDuq"
+weight = -2
 [menu.social.params]
 icon = "brand-okjike"
 newtab = true
@@ -117,6 +119,25 @@ newtab = true
 identifier = "twitter"
 name = "Twitter/X"
 url = "https://x.com/rokcso"
+weight = -1
 [menu.social.params]
 icon = "brand-twitter"
 newtab = true
+
+[[menu.social]]
+identifier = "weixin-gzh"
+name = "微信公众号"
+url = "about/#%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7"
+weight = -4
+[menu.social.params]
+icon = "weixin-gzh"
+newtab = false
+
+[[menu.social]]
+identifier = "xiaohongshu"
+name = "小红书"
+url = "/about/#%E5%B0%8F%E7%BA%A2%E4%B9%A6"
+weight = -3
+[menu.social.params]
+icon = "xiaohongshu"
+newtab = false

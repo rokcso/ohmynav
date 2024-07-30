@@ -29,6 +29,9 @@
     <loc>http://localhost:1313/p/windows-feature-tips/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/p/wallhaven/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,8 +79,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/p/</loc>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
   </url><url>
