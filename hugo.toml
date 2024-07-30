@@ -127,7 +127,7 @@ newtab = true
 [[menu.social]]
 identifier = "weixin-gzh"
 name = "微信公众号"
-url = "about/#%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7"
+url = "https://ohmynav.com/about/#%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7"
 weight = -4
 [menu.social.params]
 icon = "weixin-gzh"
@@ -136,7 +136,7 @@ newtab = false
 [[menu.social]]
 identifier = "xiaohongshu"
 name = "小红书"
-url = "/about/#%E5%B0%8F%E7%BA%A2%E4%B9%A6"
+url = "https://ohmynav.com/about/#%E5%B0%8F%E7%BA%A2%E4%B9%A6"
 weight = -3
 [menu.social.params]
 icon = "xiaohongshu"
