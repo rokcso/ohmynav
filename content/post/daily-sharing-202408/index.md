@@ -1,6 +1,6 @@
 ---
 title: "「氢日常」2024 年 8 月"
-description: "氢刻舟的日常分享，没有详细测评，但不妨点开看看，发现更多新鲜玩意儿..."
+description: "氢刻舟的日常分享，没有详细测评，但不妨点开看看，发现更多新鲜玩意儿。
 slug: "daily-sharing-202408"
 date: "2024-07-28"
 draft: false
@@ -19,6 +19,10 @@ weight: -1
 [奥运直播 - 央视频](https://sports.cctv.com/Paris2024/index.shtml)
 
 用央视频看奥运直播，官方、免费还稳定。
+
+[闲鱼官方网页版](https://www.goofish.com/)
+
+今年 5 月淘宝网页版刚刚完成了[优化升级](https://jianghu.taobao.com/detail/10328201)，现在闲鱼也推出了网页版，这趋势，我很喜欢。
 
 ## 7 月 29 日
 
