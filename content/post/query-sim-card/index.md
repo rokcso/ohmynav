@@ -7,7 +7,7 @@ draft: false
 categories: ["氢技巧"]
 tags: ["技巧"]
 keywords: ["一证通查", "隐私安全"]
-# cover: "/image.png"
+cover: "/image-1.png"
 # weight: -1
 ---
 

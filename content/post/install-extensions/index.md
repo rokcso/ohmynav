@@ -7,7 +7,7 @@ draft: false
 categories: ["浏览器科学"]
 tags: ["扩展程序", "技巧"]
 keywords: ["扩展程序", "浏览器"]
-cover: "/image.png"
+cover: "/image-1.png"
 # weight: -1
 ---
 
