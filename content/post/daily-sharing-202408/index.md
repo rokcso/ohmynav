@@ -2,7 +2,7 @@
 title: "「氢日常」2024 年 8 月"
 description: "氢刻舟的日常分享，没有详细测评，但不妨点开看看，发现更多新鲜玩意儿。"
 slug: "daily-sharing-202408"
-date: "2024-07-28"
+date: "2024-07-30"
 draft: false
 categories: ["氢日常"]
 # tags: ["日常分享"]
