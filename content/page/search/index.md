@@ -8,7 +8,7 @@ outputs:
 menu:
     main: 
         name: "搜索"
-        weight: -2
+        weight: -3
         params:
             icon: "search"
 ---

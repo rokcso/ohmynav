@@ -4,7 +4,7 @@ slug: "about"
 menu:
     main: 
         name: "关于"
-        weight: -1
+        weight: -2
         params:
             icon: "user"
 ---

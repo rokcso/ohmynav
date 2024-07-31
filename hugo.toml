@@ -100,10 +100,22 @@ enabled = true
 [[menu.main]]
 identifier = "rss"
 name = "RSS"
-url = "/index.xml"
+url = "https://ohmynav.com/index.xml"
+weight = -1
 [menu.main.params]
 icon = "rss"
 newtab = false
+
+[[menu.main]]
+identifier = "collections"
+name = "精选合集"
+url = "https://ohmynav.com/categories/%E6%B0%A2%E5%90%88%E9%9B%86/"
+weight = -4
+[menu.main.params]
+icon = "heart"
+newtab = false
+
+
 
 
 [[menu.social]]

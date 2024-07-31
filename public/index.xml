@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 30 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>「氢日常」2024 年 8 月</title>
         <link>http://localhost:1313/p/daily-sharing-202408/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
@@ -20,6 +20,10 @@
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://sports.cctv.com/Paris2024/index.shtml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;奥运直播 - 央视频&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;用央视频看奥运直播，官方、免费还稳定。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.goofish.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;闲鱼官方网页版&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今年 5 月淘宝网页版刚刚完成了&lt;a class=&#34;link&#34; href=&#34;https://jianghu.taobao.com/detail/10328201&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;优化升级&lt;/a&gt;，现在闲鱼也推出了网页版，这趋势，我很喜欢。&lt;/p&gt;
 &lt;h2 id=&#34;7-月-29-日&#34;&gt;7 月 29 日
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://n8n.akashio.com/welcome&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;n8n 中文教程 | 简单易懂的现代魔法&lt;/a&gt;&lt;/p&gt;
@@ -29,6 +33,14 @@
     &gt;盘搜VIP&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;人工亲测精选的网盘搜索工具导航，有一套自己的网盘搜索工具测试标准，收录的网盘搜索工具非常全。&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>影视资源解析网站汇总</title>
+        <link>http://localhost:1313/p/tv-resources/</link>
+        <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/tv-resources/</guid>
+        <description></description>
         </item>
         <item>
         <title>Google 开源的高性能图片压缩工具</title>
