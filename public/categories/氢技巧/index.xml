@@ -2,25 +2,344 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>氢技巧 on Oh My Nav</title>
-        <link>http://localhost:1313/categories/%E6%B0%A2%E6%8A%80%E5%B7%A7/</link>
+        <link>https://ohmynav.com/categories/%E6%B0%A2%E6%8A%80%E5%B7%A7/</link>
         <description>Recent content in 氢技巧 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%B0%A2%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/categories/%E6%B0%A2%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows 高效实用快捷键</title>
+        <link>https://ohmynav.com/p/windows-shortcuts/</link>
+        <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmynav.com/p/windows-shortcuts/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/windows-shortcuts/image-5.png" alt="Featured image of post Windows 高效实用快捷键" /&gt;&lt;h2 id=&#34;win--v&#34;&gt;Win + V
+&lt;/h2&gt;&lt;p&gt;这个快捷键在我 &lt;a class=&#34;link&#34; href=&#34;https://ohmynav.com/p/windows-feature-tips&#34; &gt;以前的分享&lt;/a&gt; 里也有提到过，就是打开 Windows 自带的剪贴板。&lt;/p&gt;
+&lt;p&gt;通过剪贴板我们可以重复复制粘贴多条内容，并且同时支持文字与图片，也可以把需要经常使用的内容固定起来。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image.png&#34;
+	width=&#34;434&#34;
+	height=&#34;536&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image_huf71e77b16e9af1efdca5543c2208a5bd_155523_480x0_resize_box_3.png 480w, https://ohmynav.com/p/windows-shortcuts/image_huf71e77b16e9af1efdca5543c2208a5bd_155523_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;剪贴板记录&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;80&#34;
+		data-flex-basis=&#34;194px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;不过使用之前需要我们先开启剪贴板历史记录。&lt;/p&gt;
+&lt;p&gt;开启方法：设置 - 系统 - 剪贴板。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-1.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;830&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-1_huaa735f6f57e5305f70b4a122b4f85b80_427427_480x0_resize_box_3.png 480w, https://ohmynav.com/p/windows-shortcuts/image-1_huaa735f6f57e5305f70b4a122b4f85b80_427427_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;剪贴板历史记录 - On&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;312px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ctrl--shift--t&#34;&gt;Ctrl + Shift + T
+&lt;/h2&gt;&lt;p&gt;你是否经常一不小心就把打开的网页全关了？然后只好通过历史记录一个一个重新打开。&lt;/p&gt;
+&lt;p&gt;如果你是这样的，那一定要记住这个快捷键：Ctrl + Shift + T。&lt;/p&gt;
+&lt;p&gt;温馨提示：在你关闭网页或者浏览器后，需要先打开浏览器然后再点击快捷键。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-2.gif&#34;
+	width=&#34;1079&#34;
+	height=&#34;607&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-2_hu48b0e89792c78f39874be1363ea712b1_922318_480x0_resize_box_1.gif 480w, https://ohmynav.com/p/windows-shortcuts/image-2_hu48b0e89792c78f39874be1363ea712b1_922318_1024x0_resize_box_1.gif 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;快速恢复所有标签页 - GIF&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这样就可以直接恢复你刚刚关闭的网页。&lt;/p&gt;
+&lt;h2 id=&#34;win--e&#34;&gt;Win + E
+&lt;/h2&gt;&lt;p&gt;不管你的电脑处于哪个页面，使用 Win + E 都可以快速打开文件资源管理器。&lt;/p&gt;
+&lt;p&gt;默认打开的是「此电脑」，但是你也可以设置打开「快速访问」。&lt;/p&gt;
+&lt;p&gt;设置方法：文件资源管理器 - 查看 - 选项 - 常规。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-3.png&#34;
+	width=&#34;696&#34;
+	height=&#34;856&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-3_hu07c85b854487fcf3d0bd61eedea1d868_66756_480x0_resize_box_3.png 480w, https://ohmynav.com/p/windows-shortcuts/image-3_hu07c85b854487fcf3d0bd61eedea1d868_66756_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;文件资源管理器设置&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;81&#34;
+		data-flex-basis=&#34;195px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;win--数字&#34;&gt;Win + 数字
+&lt;/h2&gt;&lt;p&gt;这是一个快速启动应用程序的快捷键，当你把常用的应用固定到任务栏后。&lt;/p&gt;
+&lt;p&gt;使用 Win + 对应的数字就可以快速启动该应用程序。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-4.png&#34;
+	width=&#34;772&#34;
+	height=&#34;228&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-4_hu9468c98dc4bdcdba7f65bf8df06aea83_35643_480x0_resize_box_3.png 480w, https://ohmynav.com/p/windows-shortcuts/image-4_hu9468c98dc4bdcdba7f65bf8df06aea83_35643_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;快速启动应用&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;338&#34;
+		data-flex-basis=&#34;812px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ctrl--aszxcv&#34;&gt;Ctrl + A\S\Z\X\C\V
+&lt;/h2&gt;&lt;p&gt;这几个快捷键是我每次写快捷键相关文章时必定会写的。&lt;/p&gt;
+&lt;p&gt;只要你使用电脑，一定要记住它们，几乎所有 PC 端应用程序都会使用这个逻辑。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;快捷键&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ctrl + A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;全选&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ctrl + S&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;保存&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ctrl + Z&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;撤销&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ctrl + X&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;剪切&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ctrl + C&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;复制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ctrl + V&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;粘贴&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;相信我，如果你不会这几个快捷键，你很可能会后悔。&lt;/p&gt;
+&lt;h2 id=&#34;特殊表情和符号&#34;&gt;特殊表情和符号
+&lt;/h2&gt;&lt;p&gt;在 Windows 输入特殊表情和符号是一件很麻烦的事。&lt;/p&gt;
+&lt;p&gt;使用快捷键可以帮助你更加快速的完成这一任务。&lt;/p&gt;
+&lt;p&gt;「Win + 句号」可以快速打开表情符号。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-5.png&#34;
+	width=&#34;506&#34;
+	height=&#34;509&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-5_hu9ec390665d39fd126f6fc1e3593cca00_56677_480x0_resize_box_3.png 480w, https://ohmynav.com/p/windows-shortcuts/image-5_hu9ec390665d39fd126f6fc1e3593cca00_56677_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;输入表情符号&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;99&#34;
+		data-flex-basis=&#34;238px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;「Win + R」然后输入「charmap」回车，可以快速打开特殊符号。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-6.png&#34;
+	width=&#34;871&#34;
+	height=&#34;741&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-6_hu2fd63ef86c802e7a15a6fc4668972419_39815_480x0_resize_box_3.png 480w, https://ohmynav.com/p/windows-shortcuts/image-6_hu2fd63ef86c802e7a15a6fc4668972419_39815_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;输入特殊符号&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;117&#34;
+		data-flex-basis=&#34;282px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这个快捷键看起来并不快捷，但是真的很方便，没有这个需求的直接跳过吧！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>如何更高效地使用搜索引擎</title>
+        <link>https://ohmynav.com/p/search-skills/</link>
+        <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmynav.com/p/search-skills/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/search-skills/image-3.png" alt="Featured image of post 如何更高效地使用搜索引擎" /&gt;&lt;p&gt;当我们搜索引擎搜索一个关键词的时候，搜索结果里总是参杂着很多垃圾信息。&lt;/p&gt;
+&lt;p&gt;今天我将分享一些高效的搜索方法来帮助更快地搜索到目标信息。&lt;/p&gt;
+&lt;p&gt;在开始之前，先来看看我用来对照的搜索结果：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;834&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image_hu4bd1af52f89dfe8a4ae15972d097c2b9_554775_480x0_resize_box_3.png 480w, https://ohmynav.com/p/search-skills/image_hu4bd1af52f89dfe8a4ae15972d097c2b9_554775_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;最普通的搜索方法&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;310px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;过滤关键词&#34;&gt;过滤关键词
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;「关键词 A」+「空格」+「减号」+「关键词 B」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在一个关键词前加上减号，可以快速过滤包含该关键词的搜索结果，比如上式中的「关键词 B」。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-1.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;831&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-1_hua0d0ff2da7b26e893e0c0c2d8486faa3_572183_480x0_resize_box_3.png 480w, https://ohmynav.com/p/search-skills/image-1_hua0d0ff2da7b26e893e0c0c2d8486faa3_572183_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;过滤关键词「知乎」&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;311px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;搜索结果已经过滤了带有关键词「知乎」的内容。&lt;/p&gt;
+&lt;h2 id=&#34;在指定网站中搜索&#34;&gt;在指定网站中搜索
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;「关键词」+「空格」+「site:」+「网址」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在关键词后面加上一个 site:网址，可以在指定网址内搜索该关键词。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-2.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;832&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-2_huc59fdd2d5764c0872ef45a11dddf0be5_617255_480x0_resize_box_3.png 480w, https://ohmynav.com/p/search-skills/image-2_huc59fdd2d5764c0872ef45a11dddf0be5_617255_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;指定网址搜索&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;311px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;搜索结果只包含来自 bilibili.com 的内容。&lt;/p&gt;
+&lt;p&gt;注意：site: 后面的网址不要加上 http:// 或者 https://，只使用网站域名即可，否则将不能成功搜索。&lt;/p&gt;
+&lt;h2 id=&#34;搜索指定文件类型&#34;&gt;搜索指定文件类型
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;「关键词」+「空格」+「filetype:」+「文件格式」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在关键词后面加上 filetype:文件格式，可以搜索指定文件格式的内容，比如 PPT、DOC、PDF 等等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-3.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;836&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-3_hud513f58575eeca2d8e475f684a64423a_499558_480x0_resize_box_3.png 480w, https://ohmynav.com/p/search-skills/image-3_hud513f58575eeca2d8e475f684a64423a_499558_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;指定文件格式&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;310px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这个技巧真的很实用，可以快速查找资料。&lt;/p&gt;
+&lt;h2 id=&#34;限制标题关键词&#34;&gt;限制标题关键词
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;「关键词 A」+「空格」+「intitle:」+「关键词 B」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;搜索引擎在匹配关键词时会从网页的标题和正文内容中都进行匹配，我们可以指定网页标题一定带有某某关键词。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-4.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;833&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-4_hu6617c1e79eacaee7edbee3b94ad08eb2_588060_480x0_resize_box_3.png 480w, https://ohmynav.com/p/search-skills/image-4_hu6617c1e79eacaee7edbee3b94ad08eb2_588060_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;限制标题关键词&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;129&#34;
+		data-flex-basis=&#34;311px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;精准搜索&#34;&gt;精准搜索
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;「&amp;quot;」+「关键词」+「&amp;quot;」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;将关键词用引号括起来可以使搜索引擎精准匹配该关键词，搜索只会返回包含完整关键词的结果。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-5.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;829&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-5_hub9f683a05835d224f61f07160db6ddce_540082_480x0_resize_box_3.png 480w, https://ohmynav.com/p/search-skills/image-5_hub9f683a05835d224f61f07160db6ddce_540082_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;精准匹配关键词&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;312px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;一个长的关键词并没有被拆分。&lt;/p&gt;
+&lt;p&gt;温馨提示：引号不用区分是否是中文引号或者英文引号。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>手机号码积分兑换话费教程</title>
+        <link>https://ohmynav.com/p/phone-number-points-exchange/</link>
+        <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://ohmynav.com/p/phone-number-points-exchange/</guid>
+        <description>&lt;p&gt;手机号码积分是有有效期的，每年年底就会清空。&lt;/p&gt;
+&lt;p&gt;积分通常可以用于兑换运营商提供的奖品，&lt;strong&gt;最推荐兑换话费&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;不同的运营商查询积分的方式不一样，在查询个人积分之后，只需要根据运营商回复的短信继续操作兑换即可。&lt;/p&gt;
+&lt;h2 id=&#34;中国移动&#34;&gt;中国移动
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;发送 HF 到 10658999&lt;/li&gt;
+&lt;li&gt;根据短信进行回复&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;中国联通&#34;&gt;中国联通
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;发送 JFJF#Q 到 10010&lt;/li&gt;
+&lt;li&gt;根据短信进行回复&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;中国电信&#34;&gt;中国电信
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;发送 积分查询 到 10001&lt;/li&gt;
+&lt;li&gt;根据短信进行回复&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>如何查询个人名下所有电话卡信息</title>
-        <link>http://localhost:1313/p/query-sim-card/</link>
+        <link>https://ohmynav.com/p/query-sim-card/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/query-sim-card/</guid>
-        <description>&lt;img src="http://localhost:1313/p/query-sim-card/image-1.png" alt="Featured image of post 如何查询个人名下所有电话卡信息" /&gt;&lt;p&gt;分享两种方式快速查询你的名下有几张电话卡：&lt;/p&gt;
+        <guid>https://ohmynav.com/p/query-sim-card/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/query-sim-card/image-1.png" alt="Featured image of post 如何查询个人名下所有电话卡信息" /&gt;&lt;p&gt;分享两种方式快速查询你的名下有几张电话卡：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;微信搜索「工信微报」公众号，关注后如图点击左下方「政务服务」，选择「一证通查」，进入查询页面后输入正确个人信息，点击「查询」按钮即可。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/query-sim-card/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/query-sim-card/image.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/query-sim-card/image_hu0e1f78aed920559233b1af0b51c0cb63_262362_480x0_resize_box_3.png 480w, http://localhost:1313/p/query-sim-card/image_hu0e1f78aed920559233b1af0b51c0cb63_262362_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/query-sim-card/image_hu0e1f78aed920559233b1af0b51c0cb63_262362_480x0_resize_box_3.png 480w, https://ohmynav.com/p/query-sim-card/image_hu0e1f78aed920559233b1af0b51c0cb63_262362_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;微信&#34;
@@ -34,10 +353,10 @@
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;支付宝搜索「全国移动电话卡一证通查」，如图点击「一证通查」，进入查询页面后输入正确个人信息，点击「查询」按钮即可。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/query-sim-card/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/query-sim-card/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/query-sim-card/image-1_hu634c65fdeb306715b4112ff659b6a728_365767_480x0_resize_box_3.png 480w, http://localhost:1313/p/query-sim-card/image-1_hu634c65fdeb306715b4112ff659b6a728_365767_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/query-sim-card/image-1_hu634c65fdeb306715b4112ff659b6a728_365767_480x0_resize_box_3.png 480w, https://ohmynav.com/p/query-sim-card/image-1_hu634c65fdeb306715b4112ff659b6a728_365767_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;支付宝&#34;
@@ -49,10 +368,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;温馨提示：短信验证码可能需要等 2 分钟左右才能接收到；点击「查询」按钮后不会立即出结果，结果会通过短信方式发送；同一身份证号 24 小时内只能提交一次查询。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/query-sim-card/image-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/query-sim-card/image-2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/query-sim-card/image-2_hua2d21d2e71e546d023f78f1b12cd6811_419632_480x0_resize_box_3.png 480w, http://localhost:1313/p/query-sim-card/image-2_hua2d21d2e71e546d023f78f1b12cd6811_419632_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/query-sim-card/image-2_hua2d21d2e71e546d023f78f1b12cd6811_419632_480x0_resize_box_3.png 480w, https://ohmynav.com/p/query-sim-card/image-2_hua2d21d2e71e546d023f78f1b12cd6811_419632_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;查询结果&#34;
