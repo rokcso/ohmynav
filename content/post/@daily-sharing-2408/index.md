@@ -4,7 +4,7 @@ description: "氢刻舟的日常分享，没有详细测评，但不妨点开看
 slug: "daily-sharing-2408"
 date: "2024-08-01"
 # lastmod: "2024-07-30 12:00:00"
-draft: true
+draft: false
 categories: ["氢日常"]
 # tags: ["日常分享"]
 keywords: ["软件分享", "好物安利"]
