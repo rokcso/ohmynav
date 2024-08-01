@@ -107,12 +107,21 @@ icon = "rss"
 newtab = false
 
 [[menu.main]]
-identifier = "collections"
+identifier = "featured"
 name = "精选"
-url = "/categories/%E6%B0%A2%E5%90%88%E9%9B%86/"
+url = "/tags/%E7%B2%BE%E9%80%89%E6%8E%A8%E8%8D%90/"
 weight = -4
 [menu.main.params]
 icon = "heart"
+newtab = false
+
+[[menu.main]]
+identifier = "daily-sharing"
+name = "每日"
+url = "/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/"
+weight = -5
+[menu.main.params]
+icon = "calendar"
 newtab = false
 
 [[menu.social]]

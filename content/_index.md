@@ -2,7 +2,7 @@
 menu:
     main:
         name: "首页"
-        weight: -5
+        weight: -6
         params:
             icon: "home"
 ---
