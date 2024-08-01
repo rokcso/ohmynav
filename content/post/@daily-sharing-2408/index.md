@@ -12,6 +12,16 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 2 日
+
+[Developer2GWY](https://github.com/miss-mumu/developer2gwy?utm_source=ohmynav.com)
+
+公务员从入门到上岸，最佳程序员公考实践教程，前两周开始在 GitHub 的 Star 数量直线上升，几近翻倍了。
+
+[沉浸式翻译](https://immersivetranslate.com/zh-Hans/?utm_source=ohmynav.com)
+
+双语对照翻译，超级好用的网页翻译工具，多平台支持，支持十几家翻译服务，使用 AI 翻译效果超级炸裂。
+
 ## 8 月 1 日
 
 [搜漫](https://www.soman.com/?utm_source=ohmynav.com)
