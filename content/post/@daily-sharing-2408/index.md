@@ -22,6 +22,10 @@ weight: -1
 
 双语对照翻译，超级好用的网页翻译工具，多平台支持，支持十几家翻译服务，使用 AI 翻译效果超级炸裂。
 
+[Namae](https://namae.dev/?utm_source=ohmynav.com)
+
+一键检查项目名称在各个平台或服务的可用性，比如检查域名、GitHub 组织、Twitter 账号等 30 多个平台或服务是否已存在。
+
 ## 8 月 1 日
 
 [搜漫](https://www.soman.com/?utm_source=ohmynav.com)
