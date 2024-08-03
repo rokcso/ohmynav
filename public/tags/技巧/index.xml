@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>技巧 on Oh My Nav</title>
-        <link>http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/</link>
+        <link>https://ohmynav.com/tags/%E6%8A%80%E5%B7%A7/</link>
         <description>Recent content in 技巧 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/tags/%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows 高效实用快捷键</title>
-        <link>http://localhost:1313/p/windows-shortcuts/</link>
+        <link>https://ohmynav.com/p/windows-shortcuts/</link>
         <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/windows-shortcuts/</guid>
-        <description>&lt;img src="http://localhost:1313/p/windows-shortcuts/image-5.png" alt="Featured image of post Windows 高效实用快捷键" /&gt;&lt;h2 id=&#34;win--v&#34;&gt;Win + V
-&lt;/h2&gt;&lt;p&gt;这个快捷键在我 &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/windows-feature-tips&#34; &gt;以前的分享&lt;/a&gt; 里也有提到过，就是打开 Windows 自带的剪贴板。&lt;/p&gt;
+        <guid>https://ohmynav.com/p/windows-shortcuts/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/windows-shortcuts/image-5.png" alt="Featured image of post Windows 高效实用快捷键" /&gt;&lt;h2 id=&#34;win--v&#34;&gt;Win + V
+&lt;/h2&gt;&lt;p&gt;这个快捷键在我 &lt;a class=&#34;link&#34; href=&#34;https://ohmynav.com/p/windows-feature-tips&#34; &gt;以前的分享&lt;/a&gt; 里也有提到过，就是打开 Windows 自带的剪贴板。&lt;/p&gt;
 &lt;p&gt;通过剪贴板我们可以重复复制粘贴多条内容，并且同时支持文字与图片，也可以把需要经常使用的内容固定起来。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image.png&#34;
 	width=&#34;434&#34;
 	height=&#34;536&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image_huf71e77b16e9af1efdca5543c2208a5bd_155523_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-shortcuts/image_huf71e77b16e9af1efdca5543c2208a5bd_155523_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image_hu2902085893454169999.png 480w, https://ohmynav.com/p/windows-shortcuts/image_hu15252818287357524328.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;剪贴板记录&#34;
@@ -32,10 +32,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;不过使用之前需要我们先开启剪贴板历史记录。&lt;/p&gt;
 &lt;p&gt;开启方法：设置 - 系统 - 剪贴板。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;830&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image-1_huaa735f6f57e5305f70b4a122b4f85b80_427427_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-shortcuts/image-1_huaa735f6f57e5305f70b4a122b4f85b80_427427_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-1_hu4528750074934168790.png 480w, https://ohmynav.com/p/windows-shortcuts/image-1_hu4524475582547297088.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;剪贴板历史记录 - On&#34;
@@ -50,10 +50,10 @@
 &lt;/h2&gt;&lt;p&gt;你是否经常一不小心就把打开的网页全关了？然后只好通过历史记录一个一个重新打开。&lt;/p&gt;
 &lt;p&gt;如果你是这样的，那一定要记住这个快捷键：Ctrl + Shift + T。&lt;/p&gt;
 &lt;p&gt;温馨提示：在你关闭网页或者浏览器后，需要先打开浏览器然后再点击快捷键。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image-2.gif&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-2.gif&#34;
 	width=&#34;1079&#34;
 	height=&#34;607&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image-2_hu48b0e89792c78f39874be1363ea712b1_922318_480x0_resize_box_1.gif 480w, http://localhost:1313/p/windows-shortcuts/image-2_hu48b0e89792c78f39874be1363ea712b1_922318_1024x0_resize_box_1.gif 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-2_hu3120749450131152676.gif 480w, https://ohmynav.com/p/windows-shortcuts/image-2_hu8219452925071464083.gif 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;快速恢复所有标签页 - GIF&#34;
@@ -69,10 +69,10 @@
 &lt;/h2&gt;&lt;p&gt;不管你的电脑处于哪个页面，使用 Win + E 都可以快速打开文件资源管理器。&lt;/p&gt;
 &lt;p&gt;默认打开的是「此电脑」，但是你也可以设置打开「快速访问」。&lt;/p&gt;
 &lt;p&gt;设置方法：文件资源管理器 - 查看 - 选项 - 常规。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-3.png&#34;
 	width=&#34;696&#34;
 	height=&#34;856&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image-3_hu07c85b854487fcf3d0bd61eedea1d868_66756_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-shortcuts/image-3_hu07c85b854487fcf3d0bd61eedea1d868_66756_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-3_hu12560596730898065459.png 480w, https://ohmynav.com/p/windows-shortcuts/image-3_hu10088970203694887079.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;文件资源管理器设置&#34;
@@ -86,10 +86,10 @@
 &lt;h2 id=&#34;win--数字&#34;&gt;Win + 数字
 &lt;/h2&gt;&lt;p&gt;这是一个快速启动应用程序的快捷键，当你把常用的应用固定到任务栏后。&lt;/p&gt;
 &lt;p&gt;使用 Win + 对应的数字就可以快速启动该应用程序。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-4.png&#34;
 	width=&#34;772&#34;
 	height=&#34;228&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image-4_hu9468c98dc4bdcdba7f65bf8df06aea83_35643_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-shortcuts/image-4_hu9468c98dc4bdcdba7f65bf8df06aea83_35643_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-4_hu7008518297363932313.png 480w, https://ohmynav.com/p/windows-shortcuts/image-4_hu11402873543692633624.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;快速启动应用&#34;
@@ -142,10 +142,10 @@
 &lt;/h2&gt;&lt;p&gt;在 Windows 输入特殊表情和符号是一件很麻烦的事。&lt;/p&gt;
 &lt;p&gt;使用快捷键可以帮助你更加快速的完成这一任务。&lt;/p&gt;
 &lt;p&gt;「Win + 句号」可以快速打开表情符号。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image-5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-5.png&#34;
 	width=&#34;506&#34;
 	height=&#34;509&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image-5_hu9ec390665d39fd126f6fc1e3593cca00_56677_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-shortcuts/image-5_hu9ec390665d39fd126f6fc1e3593cca00_56677_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-5_hu722009403078479443.png 480w, https://ohmynav.com/p/windows-shortcuts/image-5_hu8629378821259070596.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;输入表情符号&#34;
@@ -157,10 +157,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;「Win + R」然后输入「charmap」回车，可以快速打开特殊符号。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-shortcuts/image-6.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-shortcuts/image-6.png&#34;
 	width=&#34;871&#34;
 	height=&#34;741&#34;
-	srcset=&#34;http://localhost:1313/p/windows-shortcuts/image-6_hu2fd63ef86c802e7a15a6fc4668972419_39815_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-shortcuts/image-6_hu2fd63ef86c802e7a15a6fc4668972419_39815_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-shortcuts/image-6_hu8086826925519770795.png 480w, https://ohmynav.com/p/windows-shortcuts/image-6_hu7653250250202577567.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;输入特殊符号&#34;
@@ -176,17 +176,17 @@
         </item>
         <item>
         <title>如何更高效地使用搜索引擎</title>
-        <link>http://localhost:1313/p/search-skills/</link>
+        <link>https://ohmynav.com/p/search-skills/</link>
         <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/search-skills/</guid>
-        <description>&lt;img src="http://localhost:1313/p/search-skills/image-3.png" alt="Featured image of post 如何更高效地使用搜索引擎" /&gt;&lt;p&gt;当我们搜索引擎搜索一个关键词的时候，搜索结果里总是参杂着很多垃圾信息。&lt;/p&gt;
+        <guid>https://ohmynav.com/p/search-skills/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/search-skills/image-3.png" alt="Featured image of post 如何更高效地使用搜索引擎" /&gt;&lt;p&gt;当我们搜索引擎搜索一个关键词的时候，搜索结果里总是参杂着很多垃圾信息。&lt;/p&gt;
 &lt;p&gt;今天我将分享一些高效的搜索方法来帮助更快地搜索到目标信息。&lt;/p&gt;
 &lt;p&gt;在开始之前，先来看看我用来对照的搜索结果：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/search-skills/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;834&#34;
-	srcset=&#34;http://localhost:1313/p/search-skills/image_hu4bd1af52f89dfe8a4ae15972d097c2b9_554775_480x0_resize_box_3.png 480w, http://localhost:1313/p/search-skills/image_hu4bd1af52f89dfe8a4ae15972d097c2b9_554775_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image_hu5207536117594518465.png 480w, https://ohmynav.com/p/search-skills/image_hu11890987399159146688.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;最普通的搜索方法&#34;
@@ -202,10 +202,10 @@
 &lt;p&gt;「关键词 A」+「空格」+「减号」+「关键词 B」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在一个关键词前加上减号，可以快速过滤包含该关键词的搜索结果，比如上式中的「关键词 B」。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/search-skills/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;831&#34;
-	srcset=&#34;http://localhost:1313/p/search-skills/image-1_hua0d0ff2da7b26e893e0c0c2d8486faa3_572183_480x0_resize_box_3.png 480w, http://localhost:1313/p/search-skills/image-1_hua0d0ff2da7b26e893e0c0c2d8486faa3_572183_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-1_hu13333408489463558607.png 480w, https://ohmynav.com/p/search-skills/image-1_hu3951626226955248160.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;过滤关键词「知乎」&#34;
@@ -222,10 +222,10 @@
 &lt;p&gt;「关键词」+「空格」+「site:」+「网址」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在关键词后面加上一个 site:网址，可以在指定网址内搜索该关键词。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/search-skills/image-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;832&#34;
-	srcset=&#34;http://localhost:1313/p/search-skills/image-2_huc59fdd2d5764c0872ef45a11dddf0be5_617255_480x0_resize_box_3.png 480w, http://localhost:1313/p/search-skills/image-2_huc59fdd2d5764c0872ef45a11dddf0be5_617255_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-2_hu1606452632570641347.png 480w, https://ohmynav.com/p/search-skills/image-2_hu804597645837891787.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;指定网址搜索&#34;
@@ -243,10 +243,10 @@
 &lt;p&gt;「关键词」+「空格」+「filetype:」+「文件格式」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;在关键词后面加上 filetype:文件格式，可以搜索指定文件格式的内容，比如 PPT、DOC、PDF 等等。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/search-skills/image-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-3.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;836&#34;
-	srcset=&#34;http://localhost:1313/p/search-skills/image-3_hud513f58575eeca2d8e475f684a64423a_499558_480x0_resize_box_3.png 480w, http://localhost:1313/p/search-skills/image-3_hud513f58575eeca2d8e475f684a64423a_499558_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-3_hu17578737301095702807.png 480w, https://ohmynav.com/p/search-skills/image-3_hu9285257186110708760.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;指定文件格式&#34;
@@ -263,10 +263,10 @@
 &lt;p&gt;「关键词 A」+「空格」+「intitle:」+「关键词 B」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;搜索引擎在匹配关键词时会从网页的标题和正文内容中都进行匹配，我们可以指定网页标题一定带有某某关键词。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/search-skills/image-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-4.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;833&#34;
-	srcset=&#34;http://localhost:1313/p/search-skills/image-4_hu6617c1e79eacaee7edbee3b94ad08eb2_588060_480x0_resize_box_3.png 480w, http://localhost:1313/p/search-skills/image-4_hu6617c1e79eacaee7edbee3b94ad08eb2_588060_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-4_hu17843747910181386181.png 480w, https://ohmynav.com/p/search-skills/image-4_hu1536812472905171176.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;限制标题关键词&#34;
@@ -282,10 +282,10 @@
 &lt;p&gt;「&amp;quot;」+「关键词」+「&amp;quot;」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;将关键词用引号括起来可以使搜索引擎精准匹配该关键词，搜索只会返回包含完整关键词的结果。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/search-skills/image-5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/search-skills/image-5.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;829&#34;
-	srcset=&#34;http://localhost:1313/p/search-skills/image-5_hub9f683a05835d224f61f07160db6ddce_540082_480x0_resize_box_3.png 480w, http://localhost:1313/p/search-skills/image-5_hub9f683a05835d224f61f07160db6ddce_540082_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/search-skills/image-5_hu1334274296227699272.png 480w, https://ohmynav.com/p/search-skills/image-5_hu3904228387333328039.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;精准匹配关键词&#34;
@@ -302,10 +302,10 @@
         </item>
         <item>
         <title>手机号码积分兑换话费教程</title>
-        <link>http://localhost:1313/p/phone-number-points-exchange/</link>
+        <link>https://ohmynav.com/p/phone-number-points-exchange/</link>
         <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/phone-number-points-exchange/</guid>
+        <guid>https://ohmynav.com/p/phone-number-points-exchange/</guid>
         <description>&lt;p&gt;手机号码积分是有有效期的，每年年底就会清空。&lt;/p&gt;
 &lt;p&gt;积分通常可以用于兑换运营商提供的奖品，&lt;strong&gt;最推荐兑换话费&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;不同的运营商查询积分的方式不一样，在查询个人积分之后，只需要根据运营商回复的短信继续操作兑换即可。&lt;/p&gt;
@@ -328,16 +328,16 @@
         </item>
         <item>
         <title>分享几个实用的 Windows 自带功能</title>
-        <link>http://localhost:1313/p/windows-feature-tips/</link>
+        <link>https://ohmynav.com/p/windows-feature-tips/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/windows-feature-tips/</guid>
-        <description>&lt;img src="http://localhost:1313/p/windows-feature-tips/image-4.png" alt="Featured image of post 分享几个实用的 Windows 自带功能" /&gt;&lt;h2 id=&#34;剪贴板&#34;&gt;剪贴板
+        <guid>https://ohmynav.com/p/windows-feature-tips/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/windows-feature-tips/image-4.png" alt="Featured image of post 分享几个实用的 Windows 自带功能" /&gt;&lt;h2 id=&#34;剪贴板&#34;&gt;剪贴板
 &lt;/h2&gt;&lt;p&gt;在 Windows 10 中，我们可以打开「剪贴板历史记录」，可以将多次复制的内容保留到剪贴板。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-feature-tips/image.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;830&#34;
-	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image_hu76ca1274f64c44420c1ac86eb4825d59_371324_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image_hu76ca1274f64c44420c1ac86eb4825d59_371324_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-feature-tips/image_hu3082142263239624831.png 480w, https://ohmynav.com/p/windows-feature-tips/image_hu16682403401644154100.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;剪贴板历史记录 - On&#34;
@@ -349,10 +349,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;粘贴的时候，按下 Win + V，就可以选择要粘贴的内容了。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-feature-tips/image-1.png&#34;
 	width=&#34;437&#34;
 	height=&#34;540&#34;
-	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-1_hu35850680664329644a091637779252b1_180235_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-1_hu35850680664329644a091637779252b1_180235_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-feature-tips/image-1_hu14007745068276141243.png 480w, https://ohmynav.com/p/windows-feature-tips/image-1_hu722611502856246022.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;剪贴板&#34;
@@ -375,10 +375,10 @@
 &lt;h2 id=&#34;虚拟桌面&#34;&gt;虚拟桌面
 &lt;/h2&gt;&lt;p&gt;虚拟桌面就是你可以同时创建多个桌面，方便多任务平行处理。&lt;/p&gt;
 &lt;p&gt;在 Windows 10 中，按下 Win + Tab 后，屏幕上方就会出现「新建桌面」的提示，点击即可创建新的桌面。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-feature-tips/image-2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-2_hu95d31f36f474a5e803b707185442e941_128372_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-2_hu95d31f36f474a5e803b707185442e941_128372_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-feature-tips/image-2_hu16848439232542345514.png 480w, https://ohmynav.com/p/windows-feature-tips/image-2_hu6221887588048837974.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;虚拟桌面&#34;
@@ -393,10 +393,10 @@
 &lt;/h2&gt;&lt;p&gt;这个功能应该还不太为人所知，或者很少有人使用。&lt;/p&gt;
 &lt;p&gt;其实就像手机热点一样，Windows 10 也可以开热点，将宽带网络通过热点供其他 WiFi 设备使用。&lt;/p&gt;
 &lt;p&gt;你只需要在「通知中心」中打开「移动热点」开关即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-feature-tips/image-3.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-3_hub3b0dcc78d80f2d33983d366aa0c6bdd_136502_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-3_hub3b0dcc78d80f2d33983d366aa0c6bdd_136502_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-feature-tips/image-3_hu3512549278233625861.png 480w, https://ohmynav.com/p/windows-feature-tips/image-3_hu5614338827300625238.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;通知中心&#34;
@@ -407,10 +407,10 @@
 		data-flex-basis=&#34;240px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/windows-feature-tips/image-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/windows-feature-tips/image-4.png&#34;
 	width=&#34;1000&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;http://localhost:1313/p/windows-feature-tips/image-4_hu4969f3620c68a66c8a51455dd124792c_480060_480x0_resize_box_3.png 480w, http://localhost:1313/p/windows-feature-tips/image-4_hu4969f3620c68a66c8a51455dd124792c_480060_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/windows-feature-tips/image-4_hu12113224866857400764.png 480w, https://ohmynav.com/p/windows-feature-tips/image-4_hu2510836929642532411.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;移动热点&#34;
@@ -425,18 +425,18 @@
         </item>
         <item>
         <title>如何查询个人名下所有电话卡信息</title>
-        <link>http://localhost:1313/p/query-sim-card/</link>
+        <link>https://ohmynav.com/p/query-sim-card/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/query-sim-card/</guid>
-        <description>&lt;img src="http://localhost:1313/p/query-sim-card/image-1.png" alt="Featured image of post 如何查询个人名下所有电话卡信息" /&gt;&lt;p&gt;分享两种方式快速查询你的名下有几张电话卡：&lt;/p&gt;
+        <guid>https://ohmynav.com/p/query-sim-card/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/query-sim-card/image-1.png" alt="Featured image of post 如何查询个人名下所有电话卡信息" /&gt;&lt;p&gt;分享两种方式快速查询你的名下有几张电话卡：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;微信搜索「工信微报」公众号，关注后如图点击左下方「政务服务」，选择「一证通查」，进入查询页面后输入正确个人信息，点击「查询」按钮即可。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/query-sim-card/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/query-sim-card/image.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/query-sim-card/image_hu0e1f78aed920559233b1af0b51c0cb63_262362_480x0_resize_box_3.png 480w, http://localhost:1313/p/query-sim-card/image_hu0e1f78aed920559233b1af0b51c0cb63_262362_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/query-sim-card/image_hu12793276541881962641.png 480w, https://ohmynav.com/p/query-sim-card/image_hu7300598481684945131.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;微信&#34;
@@ -450,10 +450,10 @@
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;支付宝搜索「全国移动电话卡一证通查」，如图点击「一证通查」，进入查询页面后输入正确个人信息，点击「查询」按钮即可。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/query-sim-card/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/query-sim-card/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/query-sim-card/image-1_hu634c65fdeb306715b4112ff659b6a728_365767_480x0_resize_box_3.png 480w, http://localhost:1313/p/query-sim-card/image-1_hu634c65fdeb306715b4112ff659b6a728_365767_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/query-sim-card/image-1_hu10541322775079832135.png 480w, https://ohmynav.com/p/query-sim-card/image-1_hu16462172332937030725.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;支付宝&#34;
@@ -465,10 +465,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;温馨提示：短信验证码可能需要等 2 分钟左右才能接收到；点击「查询」按钮后不会立即出结果，结果会通过短信方式发送；同一身份证号 24 小时内只能提交一次查询。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/query-sim-card/image-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/query-sim-card/image-2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;http://localhost:1313/p/query-sim-card/image-2_hua2d21d2e71e546d023f78f1b12cd6811_419632_480x0_resize_box_3.png 480w, http://localhost:1313/p/query-sim-card/image-2_hua2d21d2e71e546d023f78f1b12cd6811_419632_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/query-sim-card/image-2_hu7855284659879086450.png 480w, https://ohmynav.com/p/query-sim-card/image-2_hu11849306986229162452.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;查询结果&#34;
@@ -485,11 +485,11 @@
         </item>
         <item>
         <title>如何在浏览器中安装扩展程序</title>
-        <link>http://localhost:1313/p/install-extensions/</link>
+        <link>https://ohmynav.com/p/install-extensions/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/install-extensions/</guid>
-        <description>&lt;img src="http://localhost:1313/p/install-extensions/image-1.png" alt="Featured image of post 如何在浏览器中安装扩展程序" /&gt;&lt;h2 id=&#34;从应用市场安装&#34;&gt;从应用市场安装
+        <guid>https://ohmynav.com/p/install-extensions/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/install-extensions/image-1.png" alt="Featured image of post 如何在浏览器中安装扩展程序" /&gt;&lt;h2 id=&#34;从应用市场安装&#34;&gt;从应用市场安装
 &lt;/h2&gt;&lt;p&gt;浏览器扩展程序就同正常的手机 App 一样有自己的应用市场，例如：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chrome.google.com/webstore/category/extensions&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -497,10 +497,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Edge 外接程序应用市场&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;650&#34;
-	srcset=&#34;http://localhost:1313/p/install-extensions/image-1_hudba48030b6df1fdd31090984349eaeb7_179715_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-1_hudba48030b6df1fdd31090984349eaeb7_179715_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/install-extensions/image-1_hu4175831706973703446.png 480w, https://ohmynav.com/p/install-extensions/image-1_hu2841433653672260629.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Chrome 网上应用商店&#34;
@@ -512,10 +512,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;进入扩展应用市场找到自己想要安装使用的扩展程序之后，点击进入详情页面，然后点击「添加至 Chrome」即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;648&#34;
-	srcset=&#34;http://localhost:1313/p/install-extensions/image-2_huc5d2ac33c1c69122257f94afc8199ba5_152738_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-2_huc5d2ac33c1c69122257f94afc8199ba5_152738_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/install-extensions/image-2_hu3527783868647267622.png 480w, https://ohmynav.com/p/install-extensions/image-2_hu15977326047923950200.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;添加至 Chrome&#34;
@@ -529,10 +529,10 @@
 &lt;h2 id=&#34;从本地文件安装&#34;&gt;从本地文件安装
 &lt;/h2&gt;&lt;p&gt;为了解决有些用户无法访问 Chrome 网上应用商店的问题，网上有些人可能会直接提供 &lt;code&gt;.crx&lt;/code&gt; 文件。&lt;/p&gt;
 &lt;p&gt;获取到 &lt;code&gt;.crx&lt;/code&gt; 文件之后，我们在 Chrome 内点击最右上角的三个点「┇」，然后选择「更多工具」，点击「扩展程序」。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-3.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;638&#34;
-	srcset=&#34;http://localhost:1313/p/install-extensions/image-3_hu02cdddb2389672c9a3b354fb71ea13c5_221466_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-3_hu02cdddb2389672c9a3b354fb71ea13c5_221466_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/install-extensions/image-3_hu7679424785323408464.png 480w, https://ohmynav.com/p/install-extensions/image-3_hu3924494173246046015.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;扩展程序&#34;
@@ -545,10 +545,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;或者 Chrome 地址栏输入 &lt;code&gt;chrome://extensions/&lt;/code&gt; 后点击回车即可进入扩展程序管理页面。&lt;/p&gt;
 &lt;p&gt;进入扩展程序管理页面之后，点击右上角开启「开发者模式」，然后将获取到的 &lt;code&gt;.crx&lt;/code&gt; 文件直接拖入该页面即可完成安装。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-4.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;644&#34;
-	srcset=&#34;http://localhost:1313/p/install-extensions/image-4_hu162478293cfcfe444ef0a8e4b1aef209_157821_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-4_hu162478293cfcfe444ef0a8e4b1aef209_157821_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/install-extensions/image-4_hu14990116058624696460.png 480w, https://ohmynav.com/p/install-extensions/image-4_hu11430438780096852579.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;开发者模式&#34;
@@ -562,10 +562,10 @@
 &lt;h2 id=&#34;显示隐藏扩展程序图标&#34;&gt;显示/隐藏扩展程序图标
 &lt;/h2&gt;&lt;p&gt;当我们安装好扩展程序之后，可能会发现刚刚安装的扩展程序图标并没有出现在 Chrome 右上角。&lt;/p&gt;
 &lt;p&gt;这时候只需要点击如图所示这个「扩展程序」图标，弹出的列表里面就是你已经安装好的扩展程序。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-5.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;649&#34;
-	srcset=&#34;http://localhost:1313/p/install-extensions/image-5_hu49b9bbeafc011730045afca2032f8909_232264_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-5_hu49b9bbeafc011730045afca2032f8909_232264_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/install-extensions/image-5_hu1924888071658460392.png 480w, https://ohmynav.com/p/install-extensions/image-5_hu6121976917506658400.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;显示扩展程序图标&#34;
@@ -581,11 +581,11 @@
         </item>
         <item>
         <title>Mac 删除系统自带的 ABC 输入法</title>
-        <link>http://localhost:1313/p/macos-remove-abc/</link>
+        <link>https://ohmynav.com/p/macos-remove-abc/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/macos-remove-abc/</guid>
-        <description>&lt;img src="http://localhost:1313/p/macos-remove-abc/image.png" alt="Featured image of post Mac 删除系统自带的 ABC 输入法" /&gt;&lt;blockquote&gt;
+        <guid>https://ohmynav.com/p/macos-remove-abc/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/macos-remove-abc/image.png" alt="Featured image of post Mac 删除系统自带的 ABC 输入法" /&gt;&lt;blockquote&gt;
 &lt;p&gt;以下操作均在 macOS Sonoma 14.3 上进行，不确定其他 macOS 系统是否适用。
 但看网上文章即使是其他 macOS 系统大多也都成功了。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -608,14 +608,14 @@
 &lt;p&gt;开启 SIP 的步骤和关闭非常类似，仅在步骤 3 时，输入 &lt;code&gt;csrutil enable&lt;/code&gt; 命令，回车执行该命令。如果一切正常，终端将显示一条消息来提示 SIP 已经启用，并提示重启 Mac，根据提示操作即可。&lt;/p&gt;
 &lt;h2 id=&#34;修改配置文件以删除-abc-输入法&#34;&gt;修改配置文件以删除 ABC 输入法
 &lt;/h2&gt;&lt;p&gt;输入法相关的系统配置文件 &lt;code&gt;com.apple.HIToolbox.plist&lt;/code&gt; 在 👇 这个路径下，可以打开 Finder 按下 &lt;code&gt;Commans + Shift + G&lt;/code&gt; 输入（复制粘贴）该路径，回车，然后将该文件拖入 Xcode（或者使用 Xcode 选择打开）。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~/Library/Preferences/com.apple.HIToolbox.plist
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;~/Library/Preferences/com.apple.HIToolbox.plist
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;也可以直接在终端执行以下命令（可能会要求输入密码，即 Mac 开机密码，输入的字符不可见），都可以打开该配置文件。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo open ~/Library/Preferences/com.apple.HIToolbox.plist
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo open ~/Library/Preferences/com.apple.HIToolbox.plist
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;成功（正常）打开后的配置文件如下图，在 Root - AppleEnabledInputSources 下有一系列 Item，找到 KeyboardLayout Name = ABC 的 Item（比如下图中的 Item 2），将该 Item 完整删除（比如完整选中 Item 2 后点击删除）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/macos-remove-abc/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/macos-remove-abc/image.png&#34;
 	width=&#34;1912&#34;
 	height=&#34;1258&#34;
-	srcset=&#34;http://localhost:1313/p/macos-remove-abc/image_huc4768833e4d979fab727505c6d4f609a_229779_480x0_resize_box_3.png 480w, http://localhost:1313/p/macos-remove-abc/image_huc4768833e4d979fab727505c6d4f609a_229779_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/macos-remove-abc/image_hu7538082306333412422.png 480w, https://ohmynav.com/p/macos-remove-abc/image_hu17681289308339198457.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;com.apple.HIToolbox.plist&#34;

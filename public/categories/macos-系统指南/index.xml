@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>MacOS 系统指南 on Oh My Nav</title>
-        <link>http://localhost:1313/categories/macos-%E7%B3%BB%E7%BB%9F%E6%8C%87%E5%8D%97/</link>
+        <link>https://ohmynav.com/categories/macos-%E7%B3%BB%E7%BB%9F%E6%8C%87%E5%8D%97/</link>
         <description>Recent content in MacOS 系统指南 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/macos-%E7%B3%BB%E7%BB%9F%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/categories/macos-%E7%B3%BB%E7%BB%9F%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Mac 删除系统自带的 ABC 输入法</title>
-        <link>http://localhost:1313/p/macos-remove-abc/</link>
+        <link>https://ohmynav.com/p/macos-remove-abc/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/macos-remove-abc/</guid>
-        <description>&lt;img src="http://localhost:1313/p/macos-remove-abc/image.png" alt="Featured image of post Mac 删除系统自带的 ABC 输入法" /&gt;&lt;blockquote&gt;
+        <guid>https://ohmynav.com/p/macos-remove-abc/</guid>
+        <description>&lt;img src="https://ohmynav.com/p/macos-remove-abc/image.png" alt="Featured image of post Mac 删除系统自带的 ABC 输入法" /&gt;&lt;blockquote&gt;
 &lt;p&gt;以下操作均在 macOS Sonoma 14.3 上进行，不确定其他 macOS 系统是否适用。
 但看网上文章即使是其他 macOS 系统大多也都成功了。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -36,14 +36,14 @@
 &lt;p&gt;开启 SIP 的步骤和关闭非常类似，仅在步骤 3 时，输入 &lt;code&gt;csrutil enable&lt;/code&gt; 命令，回车执行该命令。如果一切正常，终端将显示一条消息来提示 SIP 已经启用，并提示重启 Mac，根据提示操作即可。&lt;/p&gt;
 &lt;h2 id=&#34;修改配置文件以删除-abc-输入法&#34;&gt;修改配置文件以删除 ABC 输入法
 &lt;/h2&gt;&lt;p&gt;输入法相关的系统配置文件 &lt;code&gt;com.apple.HIToolbox.plist&lt;/code&gt; 在 👇 这个路径下，可以打开 Finder 按下 &lt;code&gt;Commans + Shift + G&lt;/code&gt; 输入（复制粘贴）该路径，回车，然后将该文件拖入 Xcode（或者使用 Xcode 选择打开）。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~/Library/Preferences/com.apple.HIToolbox.plist
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;~/Library/Preferences/com.apple.HIToolbox.plist
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;也可以直接在终端执行以下命令（可能会要求输入密码，即 Mac 开机密码，输入的字符不可见），都可以打开该配置文件。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo open ~/Library/Preferences/com.apple.HIToolbox.plist
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo open ~/Library/Preferences/com.apple.HIToolbox.plist
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;成功（正常）打开后的配置文件如下图，在 Root - AppleEnabledInputSources 下有一系列 Item，找到 KeyboardLayout Name = ABC 的 Item（比如下图中的 Item 2），将该 Item 完整删除（比如完整选中 Item 2 后点击删除）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/macos-remove-abc/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/macos-remove-abc/image.png&#34;
 	width=&#34;1912&#34;
 	height=&#34;1258&#34;
-	srcset=&#34;http://localhost:1313/p/macos-remove-abc/image_huc4768833e4d979fab727505c6d4f609a_229779_480x0_resize_box_3.png 480w, http://localhost:1313/p/macos-remove-abc/image_huc4768833e4d979fab727505c6d4f609a_229779_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://ohmynav.com/p/macos-remove-abc/image_hu7538082306333412422.png 480w, https://ohmynav.com/p/macos-remove-abc/image_hu17681289308339198457.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;com.apple.HIToolbox.plist&#34;

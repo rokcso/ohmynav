@@ -2,7 +2,6 @@ baseURL = "https://ohmynav.com/"
 languageCode = "zh-cn"
 title = "Oh My Nav"
 theme = "hugo-theme-stack"
-
 copyright = "氢刻舟"
 
 DefaultContentLanguage = "zh-cn"
@@ -159,3 +158,33 @@ weight = -3
 [menu.social.params]
 icon = "xiaohongshu"
 newtab = false
+
+[related]
+includeNewer = true
+threshold = 60
+toLower = false
+
+  [[related.indices]]
+  name = "tags"
+  weight = 100
+
+  [[related.indices]]
+  name = "categories"
+  weight = 200
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNos = false
+lineNoStart = 1
+lineNumbersInTable = false
+tabWidth = 4

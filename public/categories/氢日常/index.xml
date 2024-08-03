@@ -2,18 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>氢日常 on Oh My Nav</title>
-        <link>http://localhost:1313/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/</link>
+        <link>https://ohmynav.com/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/</link>
         <description>Recent content in 氢日常 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>「氢日常」2024 年 8 月</title>
-        <link>http://localhost:1313/p/daily-sharing-2408/</link>
+        <link>https://ohmynav.com/p/daily-sharing-2408/</link>
         <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/daily-sharing-2408/</guid>
-        <description>&lt;h2 id=&#34;8-月-1-日&#34;&gt;8 月 1 日
+        <guid>https://ohmynav.com/p/daily-sharing-2408/</guid>
+        <description>&lt;h2 id=&#34;8-月-2-日&#34;&gt;8 月 2 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/miss-mumu/developer2gwy?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Developer2GWY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;公务员从入门到上岸，最佳程序员公考实践教程，前两周开始在 GitHub 的 Star 数量直线上升，几近翻倍了。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://immersivetranslate.com/zh-Hans/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;沉浸式翻译&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;双语对照翻译，超级好用的网页翻译工具，多平台支持，支持十几家翻译服务，使用 AI 翻译效果超级炸裂。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://namae.dev/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Namae&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一键检查项目名称在各个平台或服务的可用性，比如检查域名、GitHub 组织、Twitter 账号等 30 多个平台或服务是否已存在。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-1-日&#34;&gt;8 月 1 日
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.soman.com/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;搜漫&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;可以搜索全网各平台漫画资源的网站，搜索结果里包括了漫画的主要信息，以及可以使用的漫画源，包括付费源和免费源，自行选择使用即可。&lt;/p&gt;
@@ -25,10 +35,10 @@
         </item>
         <item>
         <title>「氢日常」2024 年 7 月</title>
-        <link>http://localhost:1313/p/daily-sharing-2407/</link>
+        <link>https://ohmynav.com/p/daily-sharing-2407/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/daily-sharing-2407/</guid>
+        <guid>https://ohmynav.com/p/daily-sharing-2407/</guid>
         <description>&lt;h2 id=&#34;7-月-31-日&#34;&gt;7 月 31 日
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.miao3.cn/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;喵闪字库&lt;/a&gt;&lt;/p&gt;
