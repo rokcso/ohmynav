@@ -12,6 +12,18 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 3 日
+
+[云鸽](https://yunge.in/?utm_source=ohmynav.com)
+
+一个局域网文件传输工具，这类工具有很多，页面简洁、使用门槛低的都是比较推荐的。
+
+[Wow Tab](https://wowtab.microsoft.com/?utm_source=ohmynav.com)
+
+Microsoft 推出的专注效率提升的浏览器主页扩展程序，支持 Edge 的同时还支持 Google Chrome。
+
+另：竟然提供了官方 QQ 群作为用户反馈支持。
+
 ## 8 月 2 日
 
 [Developer2GWY](https://github.com/miss-mumu/developer2gwy?utm_source=ohmynav.com)
