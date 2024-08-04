@@ -12,6 +12,16 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 4 日
+
+[API Space](https://www.apispace.com/?utm_source=ohmynav.com)
+
+国内的 API 提供商，有很多适用于国内业务的 API 可选。
+
+[Doge 2048](https://doge2048.com/?utm_source=ohmynav.com)
+
+将 Doge Meme 与 2048 游戏结合，玩法类似 2048，使用方向键操作方块合并类似的方块，解锁全部 11 个 Doge 方可获得胜利。
+
 ## 8 月 3 日
 
 [云鸽](https://yunge.in/?utm_source=ohmynav.com)
