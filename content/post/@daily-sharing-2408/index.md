@@ -12,6 +12,16 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 5 日
+
+[Windows 系统](https://msdn.liuzhijin.cn/win11.html?utm_source=ohmynav.com)
+
+提供各个版本的 Windows 系统下载，非常全面，且在持续（2024-08-05）更新中。
+
+[Buzzing](https://www.buzzing.cc/?utm_source=ohmynav.com)
+
+国外主流媒体热点新闻中文速读，中文快速导读新闻标题，感兴趣的内容可再跳转原文精读（配合[沉浸式翻译](/p/daily-sharing-2408/#8-%E6%9C%88-2-%E6%97%A5)效果很好）。
+
 ## 8 月 4 日
 
 [API Space](https://www.apispace.com/?utm_source=ohmynav.com)
