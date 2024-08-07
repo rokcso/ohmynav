@@ -12,6 +12,22 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 7 日
+
+[Douban Book+](https://doubanbook.plus/?utm_source=ohmynav.com)
+
+一个用于豆瓣网站的浏览器扩展，在豆瓣浏览书籍时显示各个电子书资源链接，帮助用户快速找到当前书籍的电子版。
+
+注：这个链接偶有无法访问，可以直接搜索引擎搜索。
+
+[PicList](https://piclist.cn/?utm_source=ohmynav.com)
+
+一个云存储和图床平台管理工具，基于 PicGo 二次开发，在 PicGo 的基础上增加了许多新的功能，同时兼容 PicGo 的插件和配套软件。
+
+另：
+
+- [GitHub](https://github.com/Kuingsmile/PicList)
+
 ## 8 月 6 日
 
 [博友圈](https://www.boyouquan.com/?utm_source=ohmynav.com)
