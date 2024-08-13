@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>网站 on Oh My Nav</title>
-        <link>https://ohmynav.com/tags/%E7%BD%91%E7%AB%99/</link>
+        <link>http://localhost:1313/tags/%E7%BD%91%E7%AB%99/</link>
         <description>Recent content in 网站 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Google 开源的高性能图片压缩工具</title>
-        <link>https://ohmynav.com/p/squoosh/</link>
+        <link>http://localhost:1313/p/squoosh/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ohmynav.com/p/squoosh/</guid>
-        <description>&lt;img src="https://ohmynav.com/p/squoosh/image.png" alt="Featured image of post Google 开源的高性能图片压缩工具" /&gt;&lt;p&gt;与众多图片压缩工具类似，&lt;a class=&#34;link&#34; href=&#34;https://squoosh.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>http://localhost:1313/p/squoosh/</guid>
+        <description>&lt;img src="http://localhost:1313/p/squoosh/image.png" alt="Featured image of post Google 开源的高性能图片压缩工具" /&gt;&lt;p&gt;与众多图片压缩工具类似，&lt;a class=&#34;link&#34; href=&#34;https://squoosh.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Squoosh&lt;/a&gt; 也是一个在线工具，支持 JPG/PNG/SVG 等多种常见图片格式。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/squoosh/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/squoosh/image.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;https://ohmynav.com/p/squoosh/image_hu17743352251133452932.png 480w, https://ohmynav.com/p/squoosh/image_hu2537280929952348462.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/squoosh/image_hu95ddfb6f6455c607cb7d0c4cf6739e5c_96843_480x0_resize_box_3.png 480w, http://localhost:1313/p/squoosh/image_hu95ddfb6f6455c607cb7d0c4cf6739e5c_96843_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Squoosh 首页&#34;
@@ -32,10 +32,10 @@
 &lt;p&gt;Squoosh 提供了多种图片压缩模式，同时支持直接对图片进行简单编辑。&lt;/p&gt;
 &lt;p&gt;打开 Squoosh 后上传需要压缩的图片，可以通过左右预览窗口配置不同的压缩参数，并且实时预览图片压缩后的画质、大小等参数。&lt;/p&gt;
 &lt;p&gt;Squoosh 的图片压缩能力非常强大，如下图测试，一张 13.2MB 的图片压缩为 870KB 后画质损失极小。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/squoosh/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/squoosh/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;608&#34;
-	srcset=&#34;https://ohmynav.com/p/squoosh/image-1_hu11055006778060882819.png 480w, https://ohmynav.com/p/squoosh/image-1_hu1435260226750926052.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/squoosh/image-1_huc065bf44374ad20e644c35a5ad00ccdb_483960_480x0_resize_box_3.png 480w, http://localhost:1313/p/squoosh/image-1_huc065bf44374ad20e644c35a5ad00ccdb_483960_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;压缩测试&#34;
@@ -53,16 +53,16 @@
         </item>
         <item>
         <title>高清优质壁纸分享网站</title>
-        <link>https://ohmynav.com/p/wallhaven/</link>
+        <link>http://localhost:1313/p/wallhaven/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ohmynav.com/p/wallhaven/</guid>
-        <description>&lt;img src="https://ohmynav.com/p/wallhaven/image-1.png" alt="Featured image of post 高清优质壁纸分享网站" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wallhaven.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>http://localhost:1313/p/wallhaven/</guid>
+        <description>&lt;img src="http://localhost:1313/p/wallhaven/image-1.png" alt="Featured image of post 高清优质壁纸分享网站" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wallhaven.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;wallhaven.cc&lt;/a&gt; 是一个国外的高清壁纸网站，里面拥有各种各样不同类型的高清壁纸，最高支持 4K 分辨率。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/wallhaven/image.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wallhaven/image.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;1644&#34;
-	srcset=&#34;https://ohmynav.com/p/wallhaven/image_hu13606508021729396222.png 480w, https://ohmynav.com/p/wallhaven/image_hu15398217139471934471.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/wallhaven/image_hu95862441fc747eef502160b913af7f24_2309148_480x0_resize_box_3.png 480w, http://localhost:1313/p/wallhaven/image_hu95862441fc747eef502160b913af7f24_2309148_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;wallhaven 首页&#34;
@@ -79,10 +79,10 @@
 &lt;p&gt;同时网站支持搜索壁纸。&lt;/p&gt;
 &lt;p&gt;或者通过标签选择查看同一大类的壁纸。&lt;/p&gt;
 &lt;p&gt;推荐这个网站最最重要的原因是因为网站里的壁纸都很高清，高清到即使放大到极限也不会暴露像素点。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/wallhaven/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/wallhaven/image-1.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;649&#34;
-	srcset=&#34;https://ohmynav.com/p/wallhaven/image-1_hu8862991473835749562.png 480w, https://ohmynav.com/p/wallhaven/image-1_hu16974671001717303443.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/wallhaven/image-1_hu5f393ffdb4b55e0125332ae4539a5646_1137296_480x0_resize_box_3.png 480w, http://localhost:1313/p/wallhaven/image-1_hu5f393ffdb4b55e0125332ae4539a5646_1137296_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;壁纸详情页&#34;

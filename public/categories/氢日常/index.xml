@@ -2,18 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>氢日常 on Oh My Nav</title>
-        <link>https://ohmynav.com/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/</link>
+        <link>http://localhost:1313/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/</link>
         <description>Recent content in 氢日常 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%B0%A2%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>「氢日常」2024 年 8 月</title>
-        <link>https://ohmynav.com/p/daily-sharing-2408/</link>
+        <link>http://localhost:1313/p/daily-sharing-2408/</link>
         <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ohmynav.com/p/daily-sharing-2408/</guid>
-        <description>&lt;h2 id=&#34;8-月-2-日&#34;&gt;8 月 2 日
+        <guid>http://localhost:1313/p/daily-sharing-2408/</guid>
+        <description>&lt;h2 id=&#34;8-月-13-日&#34;&gt;8 月 13 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://imfile.io/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IM File&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AI: ImFile 是一个功能强大的下载工具，支持多种下载方式，包括HTTP、FTP、BitTorrent和Magnet链接，提供流畅的多设备同步体验和内置媒体播放器，非常适合需要高速下载和观看视频的用户。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-9-日&#34;&gt;8 月 9 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://typing.yasinchan.com/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Typing 在线打字练习&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;支持正反计时模式，省略标点符号以及自定义文本，比较有特色的是支持输入回放，还可以参与在线 PK。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://otp.landian.vip/zh-cn/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Office Tool Plus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;帮助用户轻松部署 Office，一站式完成 Office 下载、安装和激活，开源免费，但是仅支持 Windows 平台。&lt;/p&gt;
+&lt;p&gt;另：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/YerongAI/Office-Tool&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;8-月-8-日&#34;&gt;8 月 8 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/BewlyBewly/BewlyBewly&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;BewlyBewly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个用于 BiliBili 网站的浏览器扩展，旨在通过重新设计 BiliBili 用户界面来提升用户体验，主要专注页面的调整和优化，而不是完善功能和提升效率。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhouql.vip/bilibili/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bilidown&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BiliBili 视频下载工具，免费、简洁、好用，支持 Windows、网页、浏览器扩展、油猴脚本。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-7-日&#34;&gt;8 月 7 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doubanbook.plus/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Douban Book+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个用于豆瓣网站的浏览器扩展，在豆瓣浏览书籍时显示各个电子书资源链接，帮助用户快速找到当前书籍的电子版。&lt;/p&gt;
+&lt;p&gt;注：这个链接偶有无法访问，可以直接搜索引擎搜索。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://piclist.cn/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;PicList&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个云存储和图床平台管理工具，基于 PicGo 二次开发，在 PicGo 的基础上增加了许多新的功能，同时兼容 PicGo 的插件和配套软件。&lt;/p&gt;
+&lt;p&gt;另：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Kuingsmile/PicList&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;8-月-6-日&#34;&gt;8 月 6 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.boyouquan.com/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;博友圈&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;提供博客收录、文章聚合展示等功能，收录需要人工审核，目前已经收录 600+ 博客，内容质量还不错。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tian.hu/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;天虎&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个域名工具集，支持 Whois 查询、域名注册查询等功能，还有域名 Hack 这种优质域名推荐。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-5-日&#34;&gt;8 月 5 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://msdn.liuzhijin.cn/win11.html?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Windows 系统&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;提供各个版本的 Windows 系统下载，非常全面，且在持续（2024-08-05）更新中。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.buzzing.cc/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Buzzing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;国外主流媒体热点新闻中文速读，中文快速导读新闻标题，感兴趣的内容可再跳转原文精读（配合 &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/daily-sharing-2408/#8-%E6%9C%88-2-%E6%97%A5&#34; &gt;沉浸式翻译&lt;/a&gt; 效果很好）。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-4-日&#34;&gt;8 月 4 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.apispace.com/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;API Space&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;国内的 API 提供商，有很多适用于国内业务的 API 可选。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://doge2048.com/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Doge 2048&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;将 Doge Meme 与 2048 游戏结合，玩法类似 2048，使用方向键操作方块合并类似的方块，解锁全部 11 个 Doge 方可获得胜利。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-3-日&#34;&gt;8 月 3 日
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://yunge.in/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;云鸽&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个局域网文件传输工具，这类工具有很多，页面简洁、使用门槛低的都是比较推荐的。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://wowtab.microsoft.com/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wow Tab&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft 推出的专注效率提升的浏览器主页扩展程序，支持 Edge 的同时还支持 Google Chrome。&lt;/p&gt;
+&lt;p&gt;另：竟然提供了官方 QQ 群作为用户反馈支持。&lt;/p&gt;
+&lt;h2 id=&#34;8-月-2-日&#34;&gt;8 月 2 日
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/miss-mumu/developer2gwy?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Developer2GWY&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;公务员从入门到上岸，最佳程序员公考实践教程，前两周开始在 GitHub 的 Star 数量直线上升，几近翻倍了。&lt;/p&gt;
@@ -35,10 +100,10 @@
         </item>
         <item>
         <title>「氢日常」2024 年 7 月</title>
-        <link>https://ohmynav.com/p/daily-sharing-2407/</link>
+        <link>http://localhost:1313/p/daily-sharing-2407/</link>
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ohmynav.com/p/daily-sharing-2407/</guid>
+        <guid>http://localhost:1313/p/daily-sharing-2407/</guid>
         <description>&lt;h2 id=&#34;7-月-31-日&#34;&gt;7 月 31 日
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.miao3.cn/?utm_source=ohmynav.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;喵闪字库&lt;/a&gt;&lt;/p&gt;

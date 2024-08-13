@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>浏览器科学 on Oh My Nav</title>
-        <link>https://ohmynav.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%A7%91%E5%AD%A6/</link>
+        <link>http://localhost:1313/categories/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%A7%91%E5%AD%A6/</link>
         <description>Recent content in 浏览器科学 on Oh My Nav</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>氢刻舟</copyright>
-        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ohmynav.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>如何在浏览器中安装扩展程序</title>
-        <link>https://ohmynav.com/p/install-extensions/</link>
+        <link>http://localhost:1313/p/install-extensions/</link>
         <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://ohmynav.com/p/install-extensions/</guid>
-        <description>&lt;img src="https://ohmynav.com/p/install-extensions/image-1.png" alt="Featured image of post 如何在浏览器中安装扩展程序" /&gt;&lt;h2 id=&#34;从应用市场安装&#34;&gt;从应用市场安装
+        <guid>http://localhost:1313/p/install-extensions/</guid>
+        <description>&lt;img src="http://localhost:1313/p/install-extensions/image-1.png" alt="Featured image of post 如何在浏览器中安装扩展程序" /&gt;&lt;h2 id=&#34;从应用市场安装&#34;&gt;从应用市场安装
 &lt;/h2&gt;&lt;p&gt;浏览器扩展程序就同正常的手机 App 一样有自己的应用市场，例如：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chrome.google.com/webstore/category/extensions&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -21,10 +21,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Edge 外接程序应用市场&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;650&#34;
-	srcset=&#34;https://ohmynav.com/p/install-extensions/image-1_hu4175831706973703446.png 480w, https://ohmynav.com/p/install-extensions/image-1_hu2841433653672260629.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/install-extensions/image-1_hudba48030b6df1fdd31090984349eaeb7_179715_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-1_hudba48030b6df1fdd31090984349eaeb7_179715_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Chrome 网上应用商店&#34;
@@ -36,10 +36,10 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;进入扩展应用市场找到自己想要安装使用的扩展程序之后，点击进入详情页面，然后点击「添加至 Chrome」即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;648&#34;
-	srcset=&#34;https://ohmynav.com/p/install-extensions/image-2_hu3527783868647267622.png 480w, https://ohmynav.com/p/install-extensions/image-2_hu15977326047923950200.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/install-extensions/image-2_huc5d2ac33c1c69122257f94afc8199ba5_152738_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-2_huc5d2ac33c1c69122257f94afc8199ba5_152738_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;添加至 Chrome&#34;
@@ -53,10 +53,10 @@
 &lt;h2 id=&#34;从本地文件安装&#34;&gt;从本地文件安装
 &lt;/h2&gt;&lt;p&gt;为了解决有些用户无法访问 Chrome 网上应用商店的问题，网上有些人可能会直接提供 &lt;code&gt;.crx&lt;/code&gt; 文件。&lt;/p&gt;
 &lt;p&gt;获取到 &lt;code&gt;.crx&lt;/code&gt; 文件之后，我们在 Chrome 内点击最右上角的三个点「┇」，然后选择「更多工具」，点击「扩展程序」。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-3.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;638&#34;
-	srcset=&#34;https://ohmynav.com/p/install-extensions/image-3_hu7679424785323408464.png 480w, https://ohmynav.com/p/install-extensions/image-3_hu3924494173246046015.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/install-extensions/image-3_hu02cdddb2389672c9a3b354fb71ea13c5_221466_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-3_hu02cdddb2389672c9a3b354fb71ea13c5_221466_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;扩展程序&#34;
@@ -69,10 +69,10 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;或者 Chrome 地址栏输入 &lt;code&gt;chrome://extensions/&lt;/code&gt; 后点击回车即可进入扩展程序管理页面。&lt;/p&gt;
 &lt;p&gt;进入扩展程序管理页面之后，点击右上角开启「开发者模式」，然后将获取到的 &lt;code&gt;.crx&lt;/code&gt; 文件直接拖入该页面即可完成安装。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-4.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;644&#34;
-	srcset=&#34;https://ohmynav.com/p/install-extensions/image-4_hu14990116058624696460.png 480w, https://ohmynav.com/p/install-extensions/image-4_hu11430438780096852579.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/install-extensions/image-4_hu162478293cfcfe444ef0a8e4b1aef209_157821_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-4_hu162478293cfcfe444ef0a8e4b1aef209_157821_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;开发者模式&#34;
@@ -86,10 +86,10 @@
 &lt;h2 id=&#34;显示隐藏扩展程序图标&#34;&gt;显示/隐藏扩展程序图标
 &lt;/h2&gt;&lt;p&gt;当我们安装好扩展程序之后，可能会发现刚刚安装的扩展程序图标并没有出现在 Chrome 右上角。&lt;/p&gt;
 &lt;p&gt;这时候只需要点击如图所示这个「扩展程序」图标，弹出的列表里面就是你已经安装好的扩展程序。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohmynav.com/p/install-extensions/image-5.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/install-extensions/image-5.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;649&#34;
-	srcset=&#34;https://ohmynav.com/p/install-extensions/image-5_hu1924888071658460392.png 480w, https://ohmynav.com/p/install-extensions/image-5_hu6121976917506658400.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/install-extensions/image-5_hu49b9bbeafc011730045afca2032f8909_232264_480x0_resize_box_3.png 480w, http://localhost:1313/p/install-extensions/image-5_hu49b9bbeafc011730045afca2032f8909_232264_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;显示扩展程序图标&#34;
