@@ -12,6 +12,20 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 14 日
+
+[360 AI 助手](https://bot.360.com/?utm_source=ohmynav.com)
+
+**AI**: 聚合了国内主流 AI 大模型，为用户提供信息检索、问题解答、数据分析等服务。
+
+**氢刻舟**：神似 [Poe](https://poe.com/?utm_source=ohmynav.com)，连™ Logo 都这么像，不愧是你，360！
+
+[Mobbin](https://mobbin.com/?utm_source=ohmynav.com)
+
+**AI**: Mobbin 是一个移动和网页应用设计参考库，提供超过 30 万个真实世界的设计灵感和屏幕截图。用户可以通过它快速找到设计模式、探索用户流程，并直接将设计复制到 Figma 进行进一步创作。
+
+**氢刻舟**：同类产品中的 TOP。
+
 ## 8 月 13 日
 
 [IM File](https://imfile.io/?utm_source=ohmynav.com)
