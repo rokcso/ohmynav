@@ -12,6 +12,18 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 16 日
+
+[TUBI](https://tubitv.com/home?utm_source=ohmynav.com)
+
+一个海外的免费影视网站，可以免费看网飞，质量很高，没有广告，但是需要 🪄🛜 方能正常访问。
+
+[Top VPS](https://topvps.info/?utm_source=ohmynav.com)
+
+**AI**：一个专业的 VPS 测评站点，提供全面的服务器性能、网络速度和安全性评估，帮助用户选择最合适的 VPS 解决方案。
+
+**氢刻舟**：覆盖的 VPS 服务商挺多的，人工测试但是有对应的测试数据（跟我的 [网盘搜索工具人工精选导航](https://www.pansou.vip/?utm_source=ohmynav.com) 类似），还有一些相关工具提供。
+
 ## 8 月 14 日
 
 [360 AI 助手](https://bot.360.com/?utm_source=ohmynav.com)
