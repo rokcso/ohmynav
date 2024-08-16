@@ -16,7 +16,7 @@ weight: -1
 
 [TUBI](https://tubitv.com/home?utm_source=ohmynav.com)
 
-一个海外的免费影视网站，可以免费看网飞，质量很高，没有广告，但是需要 🪄🛜 方能正常访问。
+一个海外的免费影视网站，可以免费看网飞，甚至还能看海外电视直播，质量很高，没有广告，有英文字幕，可使用翻译插件实时翻译字幕，但是需要 🪄🛜 方能正常访问。
 
 [Top VPS](https://topvps.info/?utm_source=ohmynav.com)
 
