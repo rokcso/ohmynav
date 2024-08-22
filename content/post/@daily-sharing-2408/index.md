@@ -12,6 +12,22 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 22 日
+
+[影梭](https://github.com/ZCShou/GoGoGo)
+
+**AI**：影梭是一个 Android 虚拟定位工具，同时提供了一个可自由移动的摇杆，不需要 ROOT 权限就可以随意修改自己的当前位置以及模拟移动。
+
+[Webamp](https://webamp.org/)
+
+**AI**：Webamp 是一个在网页浏览器中重新实现的 Winamp 2 播放器项目，它让用户能够在现代浏览器上享受 Winamp 的经典界面和功能。这个项目是开源的，由爱好者为怀旧和教育目的而创建。
+
+**氢刻舟**：酷炫有趣就完了。
+
+另：
+
+- [Github](https://github.com/captbaritone/webamp)
+
 ## 8 月 16 日
 
 [TUBI](https://tubitv.com/home?utm_source=ohmynav.com)
