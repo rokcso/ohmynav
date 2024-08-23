@@ -12,13 +12,24 @@ keywords: ["软件分享", "好物安利"]
 weight: -1
 ---
 
+## 8 月 23 日
+
+[Easy Excel](https://github.com/alibaba/easyexcel)
+
+**AI**：EasyExcel 是阿里巴巴开源的一个Java库，专门用于高效处理Excel文件，尤其擅长解决大文件导致的内存溢出问题。它提供了一套简洁的API，使开发者能够轻松地读写Excel数据。
+
+[iCloud+ 全球价格对比](https://icloud.owo.nz/?utm_source=ohmynav.com)
+
+**氢刻舟**：如题，快速对比不同套餐的 iCloud+ 在全球各个国家、地区的定价（换算成人民币），随着 Apple 对于 iCloud+ 的再次涨价，土区已经待不下去了。
+
+
 ## 8 月 22 日
 
 [影梭](https://github.com/ZCShou/GoGoGo)
 
 **AI**：影梭是一个 Android 虚拟定位工具，同时提供了一个可自由移动的摇杆，不需要 ROOT 权限就可以随意修改自己的当前位置以及模拟移动。
 
-[Webamp](https://webamp.org/)
+[Webamp](https://webamp.org/?utm_source=ohmynav.com)
 
 **AI**：Webamp 是一个在网页浏览器中重新实现的 Winamp 2 播放器项目，它让用户能够在现代浏览器上享受 Winamp 的经典界面和功能。这个项目是开源的，由爱好者为怀旧和教育目的而创建。
 
